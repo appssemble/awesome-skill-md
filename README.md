@@ -4,10 +4,6 @@
 
 **Agent Skills** are folders containing a `SKILL.md` file — a Markdown document with YAML frontmatter that packages reusable instructions, scripts, and resources an agent loads on demand. This list collects **224 hand-vetted repositories**: individual skills, curated collections, official vendor skills, and the tooling around them.
 
-Every entry was reviewed for being a *genuine* skill repository and for being *clean* — full applications, generic frameworks/SDKs, abandoned forks, and anything offensive-security, deceptive, or otherwise shady were deliberately excluded. See [Curation & Safety](#curation--safety) for the method.
-
-> Within each section, repos are ordered by community traction (GitHub stars as of June 2026); the raw counts aren't shown, and ordering is not an endorsement. Always review a skill's source before running it.
-
 ## Contents
 
 - [Frameworks & Methodology](#frameworks--methodology)
@@ -31,7 +27,6 @@ Every entry was reviewed for being a *genuine* skill repository and for being *c
 - [Self-Improving Skills](#self-improving-skills)
 - [Domain-Specific](#domain-specific)
 - [Learning & Guides](#learning--guides)
-- [Curation & Safety](#curation--safety)
 - [Contributing](#contributing)
 
 ---
@@ -325,35 +320,13 @@ Every entry was reviewed for being a *genuine* skill repository and for being *c
 
 ---
 
-## Curation & Safety
-
-This list is intentionally **curated, not exhaustive**. The goal is signal, not a scrape of everything matching `SKILL.md`.
-
-**How it was built**
-
-1. **Discovery** — queried the GitHub Search API across many skill-related terms (`claude skills`, `agent skills`, `SKILL.md`, `awesome agent skills`, vendor names, etc.), de-duplicated, and ranked ~1,160 unique candidates by star count.
-2. **Relevance filter** — removed repositories that merely *mention* skills but are something else: chat/agent applications, desktop clients, agent harnesses and frameworks, SDKs/libraries, standalone MCP servers, generic tutorials, and unrelated popular projects.
-3. **Safety review** — each remaining candidate was inspected (README, `SKILL.md`, file tree). Anything in the following categories was **excluded**:
-   - Malicious or deceptive behavior (covert browser/CDP control, paywall bypassing, credential harvesting, obfuscated payloads, metric/token inflation).
-   - Offensive-security and dual-use tooling positioned for attack (exploit kits, reverse-engineering, OSINT recon, red-team/pentest automation).
-   - Spam, low-effort mass-scrapes, and repositories with signs of inauthentic stars.
-4. **Categorization** — survivors were grouped into the sections above and sorted by stars within each.
-
-**Defensive security is welcome.** Tools that *detect* vulnerabilities or malicious skills (e.g. skill scanners, secure-coding and SAST skills) are included; tools built primarily to *attack* are not.
-
-**This is not an endorsement.** Inclusion means a repo looked legitimate and useful at review time. Skills execute instructions and sometimes code inside your agent — **always read a skill's `SKILL.md` and any bundled scripts before installing or running it**, and prefer skills from sources you trust.
-
 ## Contributing
 
 Suggestions and corrections are welcome via pull request. Please make sure any addition:
 
 - Is a genuine Agent Skill, skill collection, awesome-list, or skill tooling repo (it should contain or catalog `SKILL.md` files).
 - Is actively maintained and openly licensed.
-- Is clean and non-malicious per the criteria above.
+- Is clean and non-malicious.
 - Has a concise, factual one-line description (no marketing language).
 
 Found something here that looks unsafe or miscategorized? Open an issue — keeping the list clean is the whole point.
-
----
-
-*Curated June 2026. Entries are ordered by GitHub stars as of that date; counts are omitted in favor of use cases.*
