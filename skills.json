@@ -1,0 +1,1798 @@
+{
+  "title": "Awesome SKILL.md",
+  "count": 224,
+  "skills": [
+    {
+      "name": "obra/superpowers",
+      "owner": "obra",
+      "repo": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "category": "Frameworks & Methodology",
+      "description": "Make your coding agent follow a disciplined TDD, debugging, and review workflow"
+    },
+    {
+      "name": "agentskills/agentskills",
+      "owner": "agentskills",
+      "repo": "agentskills",
+      "url": "https://github.com/agentskills/agentskills",
+      "category": "Frameworks & Methodology",
+      "description": "Reference the open Agent Skills spec when authoring or validating skills"
+    },
+    {
+      "name": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+      "owner": "muratcankoylan",
+      "repo": "Agent-Skills-for-Context-Engineering",
+      "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
+      "category": "Frameworks & Methodology",
+      "description": "Apply context-engineering and multi-agent patterns to larger workflows"
+    },
+    {
+      "name": "tw93/Waza",
+      "owner": "tw93",
+      "repo": "Waza",
+      "url": "https://github.com/tw93/Waza",
+      "category": "Frameworks & Methodology",
+      "description": "Encode your engineering habits as repeatable agent workflows"
+    },
+    {
+      "name": "jnMetaCode/superpowers-zh",
+      "owner": "jnMetaCode",
+      "repo": "superpowers-zh",
+      "url": "https://github.com/jnMetaCode/superpowers-zh",
+      "category": "Frameworks & Methodology",
+      "description": "Use the superpowers methodology in Chinese"
+    },
+    {
+      "name": "gotalab/cc-sdd",
+      "owner": "gotalab",
+      "repo": "cc-sdd",
+      "url": "https://github.com/gotalab/cc-sdd",
+      "category": "Frameworks & Methodology",
+      "description": "Drive spec-driven development across multiple coding agents"
+    },
+    {
+      "name": "HughYau/qiushi-skill",
+      "owner": "HughYau",
+      "repo": "qiushi-skill",
+      "url": "https://github.com/HughYau/qiushi-skill",
+      "category": "Frameworks & Methodology",
+      "description": "Give the agent structured thinking frameworks for tough decisions"
+    },
+    {
+      "name": "mgechev/skills-best-practices",
+      "owner": "mgechev",
+      "repo": "skills-best-practices",
+      "url": "https://github.com/mgechev/skills-best-practices",
+      "category": "Frameworks & Methodology",
+      "description": "Author effective skills using proven structure and guidance"
+    },
+    {
+      "name": "DenisSergeevitch/agents-best-practices",
+      "owner": "DenisSergeevitch",
+      "repo": "agents-best-practices",
+      "url": "https://github.com/DenisSergeevitch/agents-best-practices",
+      "category": "Frameworks & Methodology",
+      "description": "Follow best practices for building production-safe harnesses"
+    },
+    {
+      "name": "wondelai/skills",
+      "owner": "wondelai",
+      "repo": "skills",
+      "url": "https://github.com/wondelai/skills",
+      "category": "Frameworks & Methodology",
+      "description": "Apply 60+ product, design, and engineering methodology skills"
+    },
+    {
+      "name": "xu-xiang/everything-claude-code-zh",
+      "owner": "xu-xiang",
+      "repo": "everything-claude-code-zh",
+      "url": "https://github.com/xu-xiang/everything-claude-code-zh",
+      "category": "Frameworks & Methodology",
+      "description": "Use a full Claude Code configuration system in Chinese"
+    },
+    {
+      "name": "tjboudreaux/cc-thinking-skills",
+      "owner": "tjboudreaux",
+      "repo": "cc-thinking-skills",
+      "url": "https://github.com/tjboudreaux/cc-thinking-skills",
+      "category": "Frameworks & Methodology",
+      "description": "Apply 18 mental models and critical-thinking frameworks"
+    },
+    {
+      "name": "anthropics/skills",
+      "owner": "anthropics",
+      "repo": "skills",
+      "url": "https://github.com/anthropics/skills",
+      "category": "Official & Vendor",
+      "description": "Learn the official SKILL.md format from Anthropic's reference examples and template"
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "owner": "anthropics",
+      "repo": "claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "category": "Official & Vendor",
+      "description": "Install vetted plugin and skill bundles from Anthropic's official directory"
+    },
+    {
+      "name": "google/skills",
+      "owner": "google",
+      "repo": "skills",
+      "url": "https://github.com/google/skills",
+      "category": "Official & Vendor",
+      "description": "Use Google's official skills for Google Cloud and Gemini"
+    },
+    {
+      "name": "huggingface/skills",
+      "owner": "huggingface",
+      "repo": "skills",
+      "url": "https://github.com/huggingface/skills",
+      "category": "Official & Vendor",
+      "description": "Let agents work the Hugging Face Hub and run ML tasks"
+    },
+    {
+      "name": "google-labs-code/stitch-skills",
+      "owner": "google-labs-code",
+      "repo": "stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "category": "Official & Vendor",
+      "description": "Design and build UIs with Google Labs' Stitch skills"
+    },
+    {
+      "name": "OpenSenseNova/SenseNova-Skills",
+      "owner": "OpenSenseNova",
+      "repo": "SenseNova-Skills",
+      "url": "https://github.com/OpenSenseNova/SenseNova-Skills",
+      "category": "Official & Vendor",
+      "description": "Automate office tasks — images, PPT, and data — with SenseNova skills"
+    },
+    {
+      "name": "remotion-dev/skills",
+      "owner": "remotion-dev",
+      "repo": "skills",
+      "url": "https://github.com/remotion-dev/skills",
+      "category": "Official & Vendor",
+      "description": "Program videos with Remotion's official skills"
+    },
+    {
+      "name": "google-gemini/gemini-skills",
+      "owner": "google-gemini",
+      "repo": "gemini-skills",
+      "url": "https://github.com/google-gemini/gemini-skills",
+      "category": "Official & Vendor",
+      "description": "Build against the Gemini API with Google's official skills"
+    },
+    {
+      "name": "dotnet/skills",
+      "owner": "dotnet",
+      "repo": "skills",
+      "url": "https://github.com/dotnet/skills",
+      "category": "Official & Vendor",
+      "description": "Get official .NET guidance for AI coding assistants"
+    },
+    {
+      "name": "microsoft/skills",
+      "owner": "microsoft",
+      "repo": "skills",
+      "url": "https://github.com/microsoft/skills",
+      "category": "Official & Vendor",
+      "description": "Ground coding agents in Azure SDK skills and configs"
+    },
+    {
+      "name": "supabase/agent-skills",
+      "owner": "supabase",
+      "repo": "agent-skills",
+      "url": "https://github.com/supabase/agent-skills",
+      "category": "Official & Vendor",
+      "description": "Build database and backend features with official Supabase skills"
+    },
+    {
+      "name": "expo/skills",
+      "owner": "expo",
+      "repo": "skills",
+      "url": "https://github.com/expo/skills",
+      "category": "Official & Vendor",
+      "description": "Build, deploy, and debug Expo apps with official skills"
+    },
+    {
+      "name": "cloudflare/skills",
+      "owner": "cloudflare",
+      "repo": "skills",
+      "url": "https://github.com/cloudflare/skills",
+      "category": "Official & Vendor",
+      "description": "Build on Cloudflare Workers with official skills"
+    },
+    {
+      "name": "WordPress/agent-skills",
+      "owner": "WordPress",
+      "repo": "agent-skills",
+      "url": "https://github.com/WordPress/agent-skills",
+      "category": "Official & Vendor",
+      "description": "Build WordPress blocks, themes, and plugins correctly"
+    },
+    {
+      "name": "hashicorp/agent-skills",
+      "owner": "hashicorp",
+      "repo": "agent-skills",
+      "url": "https://github.com/hashicorp/agent-skills",
+      "category": "Official & Vendor",
+      "description": "Work with Terraform, Packer, and HCL using HashiCorp's skills"
+    },
+    {
+      "name": "microsoft/skills-for-fabric",
+      "owner": "microsoft",
+      "repo": "skills-for-fabric",
+      "url": "https://github.com/microsoft/skills-for-fabric",
+      "category": "Official & Vendor",
+      "description": "Build on Microsoft Fabric with official skill bundles"
+    },
+    {
+      "name": "solana-foundation/solana-dev-skill",
+      "owner": "solana-foundation",
+      "repo": "solana-dev-skill",
+      "url": "https://github.com/solana-foundation/solana-dev-skill",
+      "category": "Official & Vendor",
+      "description": "Build on Solana with the foundation's official skill"
+    },
+    {
+      "name": "posit-dev/skills",
+      "owner": "posit-dev",
+      "repo": "skills",
+      "url": "https://github.com/posit-dev/skills",
+      "category": "Official & Vendor",
+      "description": "Develop R, Shiny, and Quarto projects with Posit's skills"
+    },
+    {
+      "name": "microsoft/power-platform-skills",
+      "owner": "microsoft",
+      "repo": "power-platform-skills",
+      "url": "https://github.com/microsoft/power-platform-skills",
+      "category": "Official & Vendor",
+      "description": "Build Power Platform Pages, Apps, and Canvas"
+    },
+    {
+      "name": "ComposioHQ/awesome-claude-skills",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "category": "Curated Lists",
+      "description": "Browse a vetted directory when hunting for a ready-made Claude skill or plugin"
+    },
+    {
+      "name": "sickn33/antigravity-awesome-skills",
+      "owner": "sickn33",
+      "repo": "antigravity-awesome-skills",
+      "url": "https://github.com/sickn33/antigravity-awesome-skills",
+      "category": "Curated Lists",
+      "description": "Install from a large aggregated library of ready-to-use skill playbooks"
+    },
+    {
+      "name": "VoltAgent/awesome-agent-skills",
+      "owner": "VoltAgent",
+      "repo": "awesome-agent-skills",
+      "url": "https://github.com/VoltAgent/awesome-agent-skills",
+      "category": "Curated Lists",
+      "description": "Find real, in-use Agent Skills contributed by teams and the community"
+    },
+    {
+      "name": "travisvn/awesome-claude-skills",
+      "owner": "travisvn",
+      "repo": "awesome-claude-skills",
+      "url": "https://github.com/travisvn/awesome-claude-skills",
+      "category": "Curated Lists",
+      "description": "Browse a broad index of Claude Skills, resources, and tools"
+    },
+    {
+      "name": "BehiSecc/awesome-claude-skills",
+      "owner": "BehiSecc",
+      "repo": "awesome-claude-skills",
+      "url": "https://github.com/BehiSecc/awesome-claude-skills",
+      "category": "Curated Lists",
+      "description": "Browse Claude Skills organized across many categories"
+    },
+    {
+      "name": "heilcheng/awesome-agent-skills",
+      "owner": "heilcheng",
+      "repo": "awesome-agent-skills",
+      "url": "https://github.com/heilcheng/awesome-agent-skills",
+      "category": "Curated Lists",
+      "description": "Find real-world Agent Skills plus tutorials and directories"
+    },
+    {
+      "name": "libukai/awesome-agent-skills",
+      "owner": "libukai",
+      "repo": "awesome-agent-skills",
+      "url": "https://github.com/libukai/awesome-agent-skills",
+      "category": "Curated Lists",
+      "description": "Use as a guide and resource hub for getting started with skills"
+    },
+    {
+      "name": "tech-leads-club/agent-skills",
+      "owner": "tech-leads-club",
+      "repo": "agent-skills",
+      "url": "https://github.com/tech-leads-club/agent-skills",
+      "category": "Curated Lists",
+      "description": "Install from a security-reviewed catalog of verified skills"
+    },
+    {
+      "name": "xixu-me/awesome-persona-distill-skills",
+      "owner": "xixu-me",
+      "repo": "awesome-persona-distill-skills",
+      "url": "https://github.com/xixu-me/awesome-persona-distill-skills",
+      "category": "Curated Lists",
+      "description": "Find skills that distill people and personas for your agent"
+    },
+    {
+      "name": "rohitg00/awesome-claude-code-toolkit",
+      "owner": "rohitg00",
+      "repo": "awesome-claude-code-toolkit",
+      "url": "https://github.com/rohitg00/awesome-claude-code-toolkit",
+      "category": "Curated Lists",
+      "description": "Browse a big toolkit of Claude Code agents, plugins, and skills"
+    },
+    {
+      "name": "twostraws/Swift-Agent-Skills",
+      "owner": "twostraws",
+      "repo": "Swift-Agent-Skills",
+      "url": "https://github.com/twostraws/Swift-Agent-Skills",
+      "category": "Curated Lists",
+      "description": "Find open-source agent skills for Swift development"
+    },
+    {
+      "name": "Prat011/awesome-llm-skills",
+      "owner": "Prat011",
+      "repo": "awesome-llm-skills",
+      "url": "https://github.com/Prat011/awesome-llm-skills",
+      "category": "Curated Lists",
+      "description": "Browse a catalog of LLM and agent skills and resources"
+    },
+    {
+      "name": "bergside/awesome-design-skills",
+      "owner": "bergside",
+      "repo": "awesome-design-skills",
+      "url": "https://github.com/bergside/awesome-design-skills",
+      "category": "Curated Lists",
+      "description": "Find design-focused SKILL.md and DESIGN.md files"
+    },
+    {
+      "name": "daymade/claude-code-skills",
+      "owner": "daymade",
+      "repo": "claude-code-skills",
+      "url": "https://github.com/daymade/claude-code-skills",
+      "category": "Curated Lists",
+      "description": "Browse a marketplace of 64+ production skills with a skill-creator"
+    },
+    {
+      "name": "JackyST0/awesome-agent-skills",
+      "owner": "JackyST0",
+      "repo": "awesome-agent-skills",
+      "url": "https://github.com/JackyST0/awesome-agent-skills",
+      "category": "Curated Lists",
+      "description": "Find Agent Skills that work across Cursor, Claude Code, and Copilot"
+    },
+    {
+      "name": "Gentleman-Programming/Gentleman-Skills",
+      "owner": "Gentleman-Programming",
+      "repo": "Gentleman-Skills",
+      "url": "https://github.com/Gentleman-Programming/Gentleman-Skills",
+      "category": "Curated Lists",
+      "description": "Pull community best-practice coding skills for frameworks"
+    },
+    {
+      "name": "karanb192/awesome-claude-skills",
+      "owner": "karanb192",
+      "repo": "awesome-claude-skills",
+      "url": "https://github.com/karanb192/awesome-claude-skills",
+      "category": "Curated Lists",
+      "description": "Browse a definitive set of verified Claude skills"
+    },
+    {
+      "name": "nicepkg/ai-workflow",
+      "owner": "nicepkg",
+      "repo": "ai-workflow",
+      "url": "https://github.com/nicepkg/ai-workflow",
+      "category": "Curated Lists",
+      "description": "Install 170+ prebuilt skills organized as AI workflows"
+    },
+    {
+      "name": "vercel-labs/skills",
+      "owner": "vercel-labs",
+      "repo": "skills",
+      "url": "https://github.com/vercel-labs/skills",
+      "category": "Tooling & Management",
+      "description": "Discover, install, and manage skills across agents from one CLI"
+    },
+    {
+      "name": "yusufkaraaslan/Skill_Seekers",
+      "owner": "yusufkaraaslan",
+      "repo": "Skill_Seekers",
+      "url": "https://github.com/yusufkaraaslan/Skill_Seekers",
+      "category": "Tooling & Management",
+      "description": "Convert your docs, repos, or PDFs into installable Agent Skills"
+    },
+    {
+      "name": "numman-ali/openskills",
+      "owner": "numman-ali",
+      "repo": "openskills",
+      "url": "https://github.com/numman-ali/openskills",
+      "category": "Tooling & Management",
+      "description": "Install skills universally across multiple agent platforms"
+    },
+    {
+      "name": "microsoft/SkillOpt",
+      "owner": "microsoft",
+      "repo": "SkillOpt",
+      "url": "https://github.com/microsoft/SkillOpt",
+      "category": "Tooling & Management",
+      "description": "Train and refine reusable skill documents automatically"
+    },
+    {
+      "name": "virgiliojr94/book-to-skill",
+      "owner": "virgiliojr94",
+      "repo": "book-to-skill",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "category": "Tooling & Management",
+      "description": "Turn a technical book into a study-ready agent skill"
+    },
+    {
+      "name": "iflytek/skillhub",
+      "owner": "iflytek",
+      "repo": "skillhub",
+      "url": "https://github.com/iflytek/skillhub",
+      "category": "Tooling & Management",
+      "description": "Self-host a registry to publish and version skills for your team"
+    },
+    {
+      "name": "davepoon/buildwithclaude",
+      "owner": "davepoon",
+      "repo": "buildwithclaude",
+      "url": "https://github.com/davepoon/buildwithclaude",
+      "category": "Tooling & Management",
+      "description": "Discover skills, agents, commands, and plugins in one hub"
+    },
+    {
+      "name": "xingkongliang/skills-manager",
+      "owner": "xingkongliang",
+      "repo": "skills-manager",
+      "url": "https://github.com/xingkongliang/skills-manager",
+      "category": "Tooling & Management",
+      "description": "Organize and sync your agent skills from a desktop app"
+    },
+    {
+      "name": "runkids/skillshare",
+      "owner": "runkids",
+      "repo": "skillshare",
+      "url": "https://github.com/runkids/skillshare",
+      "category": "Tooling & Management",
+      "description": "Sync skills and agents across your AI tools with one command"
+    },
+    {
+      "name": "GuDaStudio/skills",
+      "owner": "GuDaStudio",
+      "repo": "skills",
+      "url": "https://github.com/GuDaStudio/skills",
+      "category": "Tooling & Management",
+      "description": "Delegate coding tasks to Codex and Gemini CLIs"
+    },
+    {
+      "name": "iamzhihuix/skills-manage",
+      "owner": "iamzhihuix",
+      "repo": "skills-manage",
+      "url": "https://github.com/iamzhihuix/skills-manage",
+      "category": "Tooling & Management",
+      "description": "Manage skills across many agent platforms"
+    },
+    {
+      "name": "badlogic/pi-skills",
+      "owner": "badlogic",
+      "repo": "pi-skills",
+      "url": "https://github.com/badlogic/pi-skills",
+      "category": "Tooling & Management",
+      "description": "Add CLI skills for search, browser, email, and transcription"
+    },
+    {
+      "name": "feiskyer/claude-code-settings",
+      "owner": "feiskyer",
+      "repo": "claude-code-settings",
+      "url": "https://github.com/feiskyer/claude-code-settings",
+      "category": "Tooling & Management",
+      "description": "Start from a ready Claude Code setup bundling skills, agents, commands"
+    },
+    {
+      "name": "FrancyJGLisboa/agent-skill-creator",
+      "owner": "FrancyJGLisboa",
+      "repo": "agent-skill-creator",
+      "url": "https://github.com/FrancyJGLisboa/agent-skill-creator",
+      "category": "Tooling & Management",
+      "description": "Turn any workflow into reusable, cross-platform skills"
+    },
+    {
+      "name": "benchflow-ai/skillsbench",
+      "owner": "benchflow-ai",
+      "repo": "skillsbench",
+      "url": "https://github.com/benchflow-ai/skillsbench",
+      "category": "Tooling & Management",
+      "description": "Benchmark how well agents actually use your skills"
+    },
+    {
+      "name": "rohitg00/skillkit",
+      "owner": "rohitg00",
+      "repo": "skillkit",
+      "url": "https://github.com/rohitg00/skillkit",
+      "category": "Tooling & Management",
+      "description": "Install, translate, and share portable skills across agents"
+    },
+    {
+      "name": "huggingface/upskill",
+      "owner": "huggingface",
+      "repo": "upskill",
+      "url": "https://github.com/huggingface/upskill",
+      "category": "Tooling & Management",
+      "description": "Generate and evaluate new skills from your agent's traces"
+    },
+    {
+      "name": "Railly/agentfiles",
+      "owner": "Railly",
+      "repo": "agentfiles",
+      "url": "https://github.com/Railly/agentfiles",
+      "category": "Tooling & Management",
+      "description": "Browse, create, and edit agent files across 13+ tools"
+    },
+    {
+      "name": "gotalab/skillport",
+      "owner": "gotalab",
+      "repo": "skillport",
+      "url": "https://github.com/gotalab/skillport",
+      "category": "Tooling & Management",
+      "description": "Bring skills to any agent via CLI or MCP and manage them once"
+    },
+    {
+      "name": "Narwhal-Lab/MagicSkills",
+      "owner": "Narwhal-Lab",
+      "repo": "MagicSkills",
+      "url": "https://github.com/Narwhal-Lab/MagicSkills",
+      "category": "Tooling & Management",
+      "description": "Stop copying skills between agents — manage SKILL.md folders locally"
+    },
+    {
+      "name": "agent-sh/agnix",
+      "owner": "agent-sh",
+      "repo": "agnix",
+      "url": "https://github.com/agent-sh/agnix",
+      "category": "Tooling & Management",
+      "description": "Lint and validate your CLAUDE.md, AGENTS.md, and SKILL.md files"
+    },
+    {
+      "name": "Evol-ai/SkillCompass",
+      "owner": "Evol-ai",
+      "repo": "SkillCompass",
+      "url": "https://github.com/Evol-ai/SkillCompass",
+      "category": "Tooling & Management",
+      "description": "Evaluate skill quality and fix the weakest ones"
+    },
+    {
+      "name": "NVIDIA/SkillSpector",
+      "owner": "NVIDIA",
+      "repo": "SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "category": "Security",
+      "description": "Scan skills for vulnerabilities and malicious intent before installing them"
+    },
+    {
+      "name": "trailofbits/skills",
+      "owner": "trailofbits",
+      "repo": "skills",
+      "url": "https://github.com/trailofbits/skills",
+      "category": "Security",
+      "description": "Run vulnerability detection and security research with Trail of Bits' skills"
+    },
+    {
+      "name": "snyk/agent-scan",
+      "owner": "snyk",
+      "repo": "agent-scan",
+      "url": "https://github.com/snyk/agent-scan",
+      "category": "Security",
+      "description": "Scan agents, MCP servers, and skills for vulnerabilities (Snyk)"
+    },
+    {
+      "name": "cisco-ai-defense/skill-scanner",
+      "owner": "cisco-ai-defense",
+      "repo": "skill-scanner",
+      "url": "https://github.com/cisco-ai-defense/skill-scanner",
+      "category": "Security",
+      "description": "Detect prompt injection and malware in skills before use (Cisco)"
+    },
+    {
+      "name": "prompt-security/clawsec",
+      "owner": "prompt-security",
+      "repo": "clawsec",
+      "url": "https://github.com/prompt-security/clawsec",
+      "category": "Security",
+      "description": "Add a defensive security suite with drift detection and integrity checks"
+    },
+    {
+      "name": "BehiSecc/VibeSec-Skill",
+      "owner": "BehiSecc",
+      "repo": "VibeSec-Skill",
+      "url": "https://github.com/BehiSecc/VibeSec-Skill",
+      "category": "Security",
+      "description": "Get the agent to write secure code and avoid common vulnerabilities"
+    },
+    {
+      "name": "utkusen/sast-skills",
+      "owner": "utkusen",
+      "repo": "sast-skills",
+      "url": "https://github.com/utkusen/sast-skills",
+      "category": "Security",
+      "description": "Turn your AI coder into a SAST vulnerability scanner"
+    },
+    {
+      "name": "mattpocock/skills",
+      "owner": "mattpocock",
+      "repo": "skills",
+      "url": "https://github.com/mattpocock/skills",
+      "category": "Software Engineering",
+      "description": "Drop in battle-tested skills that stop agents repeating common engineering mistakes"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "owner": "addyosmani",
+      "repo": "agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "category": "Software Engineering",
+      "description": "Add production-grade engineering workflows spanning the whole software lifecycle"
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "owner": "DietrichGebert",
+      "repo": "ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "category": "Software Engineering",
+      "description": "Force the agent to write the minimum code needed instead of over-engineering"
+    },
+    {
+      "name": "alirezarezvani/claude-skills",
+      "owner": "alirezarezvani",
+      "repo": "claude-skills",
+      "url": "https://github.com/alirezarezvani/claude-skills",
+      "category": "Software Engineering",
+      "description": "Pull from a large multi-domain library of ready SKILL.md files and CLI tools"
+    },
+    {
+      "name": "Jeffallan/claude-skills",
+      "owner": "Jeffallan",
+      "repo": "claude-skills",
+      "url": "https://github.com/Jeffallan/claude-skills",
+      "category": "Software Engineering",
+      "description": "Equip an agent for full-stack work with 66 dev skills and workflows"
+    },
+    {
+      "name": "samber/cc-skills-golang",
+      "owner": "samber",
+      "repo": "cc-skills-golang",
+      "url": "https://github.com/samber/cc-skills-golang",
+      "category": "Software Engineering",
+      "description": "Get curated Go development skills"
+    },
+    {
+      "name": "mrgoonie/claudekit-skills",
+      "owner": "mrgoonie",
+      "repo": "claudekit-skills",
+      "url": "https://github.com/mrgoonie/claudekit-skills",
+      "category": "Software Engineering",
+      "description": "Pull a broad collection of dev and automation skills"
+    },
+    {
+      "name": "softaworks/agent-toolkit",
+      "owner": "softaworks",
+      "repo": "agent-toolkit",
+      "url": "https://github.com/softaworks/agent-toolkit",
+      "category": "Software Engineering",
+      "description": "Use packaged skills for dev, docs, and planning workflows"
+    },
+    {
+      "name": "antonbabenko/terraform-skill",
+      "owner": "antonbabenko",
+      "repo": "terraform-skill",
+      "url": "https://github.com/antonbabenko/terraform-skill",
+      "category": "Software Engineering",
+      "description": "Write better Terraform and OpenTofu infrastructure code"
+    },
+    {
+      "name": "glittercowboy/taches-cc-resources",
+      "owner": "glittercowboy",
+      "repo": "taches-cc-resources",
+      "url": "https://github.com/glittercowboy/taches-cc-resources",
+      "category": "Software Engineering",
+      "description": "Grab a resource pack of skills, commands, and subagents"
+    },
+    {
+      "name": "noobnooc/noobnooc",
+      "owner": "noobnooc",
+      "repo": "noobnooc",
+      "url": "https://github.com/noobnooc/noobnooc",
+      "category": "Software Engineering",
+      "description": "Add guardrails and auditing to your AI coding"
+    },
+    {
+      "name": "skills-directory/skill-codex",
+      "owner": "skills-directory",
+      "repo": "skill-codex",
+      "url": "https://github.com/skills-directory/skill-codex",
+      "category": "Software Engineering",
+      "description": "Delegate code analysis to the Codex CLI from Claude Code"
+    },
+    {
+      "name": "awesome-skills/code-review-skill",
+      "owner": "awesome-skills",
+      "repo": "code-review-skill",
+      "url": "https://github.com/awesome-skills/code-review-skill",
+      "category": "Software Engineering",
+      "description": "Run structured code reviews across 20+ languages"
+    },
+    {
+      "name": "Aaronontheweb/dotnet-skills",
+      "owner": "Aaronontheweb",
+      "repo": "dotnet-skills",
+      "url": "https://github.com/Aaronontheweb/dotnet-skills",
+      "category": "Software Engineering",
+      "description": "Get .NET, Akka.NET, and ASP.NET development skills"
+    },
+    {
+      "name": "mohi-devhub/antivibe",
+      "owner": "mohi-devhub",
+      "repo": "antivibe",
+      "url": "https://github.com/mohi-devhub/antivibe",
+      "category": "Software Engineering",
+      "description": "Understand and audit AI-written code instead of blindly accepting it"
+    },
+    {
+      "name": "jabrena/cursor-rules-java",
+      "owner": "jabrena",
+      "repo": "cursor-rules-java",
+      "url": "https://github.com/jabrena/cursor-rules-java",
+      "category": "Software Engineering",
+      "description": "Develop Java enterprise apps with skills, agents, and commands"
+    },
+    {
+      "name": "waynesutton/convexskills",
+      "owner": "waynesutton",
+      "repo": "convexskills",
+      "url": "https://github.com/waynesutton/convexskills",
+      "category": "Software Engineering",
+      "description": "Build production apps on Convex"
+    },
+    {
+      "name": "vercel-labs/agent-skills",
+      "owner": "vercel-labs",
+      "repo": "agent-skills",
+      "url": "https://github.com/vercel-labs/agent-skills",
+      "category": "Web & Frontend",
+      "description": "Get Vercel's skills for deployment, performance, React, and code review"
+    },
+    {
+      "name": "greensock/gsap-skills",
+      "owner": "greensock",
+      "repo": "gsap-skills",
+      "url": "https://github.com/greensock/gsap-skills",
+      "category": "Web & Frontend",
+      "description": "Teach an agent to write correct GSAP web animations"
+    },
+    {
+      "name": "antfu/skills",
+      "owner": "antfu",
+      "repo": "skills",
+      "url": "https://github.com/antfu/skills",
+      "category": "Web & Frontend",
+      "description": "Get Anthony Fu's skills for Vue, Vite, and Nuxt projects"
+    },
+    {
+      "name": "vuejs-ai/skills",
+      "owner": "vuejs-ai",
+      "repo": "skills",
+      "url": "https://github.com/vuejs-ai/skills",
+      "category": "Web & Frontend",
+      "description": "Enforce Vue 3 best-practice patterns"
+    },
+    {
+      "name": "addyosmani/web-quality-skills",
+      "owner": "addyosmani",
+      "repo": "web-quality-skills",
+      "url": "https://github.com/addyosmani/web-quality-skills",
+      "category": "Web & Frontend",
+      "description": "Optimize web performance, accessibility, and SEO via Lighthouse"
+    },
+    {
+      "name": "dgreenheck/webgpu-claude-skill",
+      "owner": "dgreenheck",
+      "repo": "webgpu-claude-skill",
+      "url": "https://github.com/dgreenheck/webgpu-claude-skill",
+      "category": "Web & Frontend",
+      "description": "Build WebGPU and Three.js apps with TSL"
+    },
+    {
+      "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "owner": "nextlevelbuilder",
+      "repo": "ui-ux-pro-max-skill",
+      "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+      "category": "UI/UX & Design",
+      "description": "Give an agent design taste — styles, palettes, fonts, and UX rules for polished UI"
+    },
+    {
+      "name": "Leonxlnx/taste-skill",
+      "owner": "Leonxlnx",
+      "repo": "taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "category": "UI/UX & Design",
+      "description": "Stop the agent generating bland layouts and improve its sense of visual design"
+    },
+    {
+      "name": "alchaincyf/huashu-design",
+      "owner": "alchaincyf",
+      "repo": "huashu-design",
+      "url": "https://github.com/alchaincyf/huashu-design",
+      "category": "UI/UX & Design",
+      "description": "Generate high-fidelity prototypes, decks, and animations from a prompt"
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "owner": "Nutlope",
+      "repo": "hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "category": "UI/UX & Design",
+      "description": "Avoid generic AI-looking sites and generate varied website designs"
+    },
+    {
+      "name": "dominikmartn/nothing-design-skill",
+      "owner": "dominikmartn",
+      "repo": "nothing-design-skill",
+      "url": "https://github.com/dominikmartn/nothing-design-skill",
+      "category": "UI/UX & Design",
+      "description": "Generate UIs in Nothing's monochrome design language"
+    },
+    {
+      "name": "yetone/native-feel-skill",
+      "owner": "yetone",
+      "repo": "native-feel-skill",
+      "url": "https://github.com/yetone/native-feel-skill",
+      "category": "UI/UX & Design",
+      "description": "Design cross-platform desktop apps that feel native"
+    },
+    {
+      "name": "Owl-Listener/designer-skills",
+      "owner": "Owl-Listener",
+      "repo": "designer-skills",
+      "url": "https://github.com/Owl-Listener/designer-skills",
+      "category": "UI/UX & Design",
+      "description": "Pull a collection of design skills and plugins"
+    },
+    {
+      "name": "JimLiu/baoyu-design",
+      "owner": "JimLiu",
+      "repo": "baoyu-design",
+      "url": "https://github.com/JimLiu/baoyu-design",
+      "category": "UI/UX & Design",
+      "description": "Run Claude Design locally to produce HTML mockups"
+    },
+    {
+      "name": "hamen/material-3-skill",
+      "owner": "hamen",
+      "repo": "material-3-skill",
+      "url": "https://github.com/hamen/material-3-skill",
+      "category": "UI/UX & Design",
+      "description": "Apply Material Design 3 components and theming"
+    },
+    {
+      "name": "dominikmartn/hue",
+      "owner": "dominikmartn",
+      "repo": "hue",
+      "url": "https://github.com/dominikmartn/hue",
+      "category": "UI/UX & Design",
+      "description": "Turn any brand into a complete design system"
+    },
+    {
+      "name": "meodai/skill.color-expert",
+      "owner": "meodai",
+      "repo": "skill.color-expert",
+      "url": "https://github.com/meodai/skill.color-expert",
+      "category": "UI/UX & Design",
+      "description": "Make the agent a color-science expert for palettes and color spaces"
+    },
+    {
+      "name": "kwakseongjae/oh-my-design",
+      "owner": "kwakseongjae",
+      "repo": "oh-my-design",
+      "url": "https://github.com/kwakseongjae/oh-my-design",
+      "category": "UI/UX & Design",
+      "description": "Install a hand-verified design system for your coding agent"
+    },
+    {
+      "name": "nicobailon/visual-explainer",
+      "owner": "nicobailon",
+      "repo": "visual-explainer",
+      "url": "https://github.com/nicobailon/visual-explainer",
+      "category": "Diagrams & Visualization",
+      "description": "Turn terminal output and concepts into HTML diagrams and slides"
+    },
+    {
+      "name": "Cocoon-AI/architecture-diagram-generator",
+      "owner": "Cocoon-AI",
+      "repo": "architecture-diagram-generator",
+      "url": "https://github.com/Cocoon-AI/architecture-diagram-generator",
+      "category": "Diagrams & Visualization",
+      "description": "Produce dark-themed system architecture diagrams as HTML"
+    },
+    {
+      "name": "coleam00/excalidraw-diagram-skill",
+      "owner": "coleam00",
+      "repo": "excalidraw-diagram-skill",
+      "url": "https://github.com/coleam00/excalidraw-diagram-skill",
+      "category": "Diagrams & Visualization",
+      "description": "Generate and render Excalidraw diagrams from plain language"
+    },
+    {
+      "name": "Agents365-ai/drawio-skill",
+      "owner": "Agents365-ai",
+      "repo": "drawio-skill",
+      "url": "https://github.com/Agents365-ai/drawio-skill",
+      "category": "Diagrams & Visualization",
+      "description": "Produce professional draw.io diagrams from descriptions"
+    },
+    {
+      "name": "axtonliu/axton-obsidian-visual-skills",
+      "owner": "axtonliu",
+      "repo": "axton-obsidian-visual-skills",
+      "url": "https://github.com/axtonliu/axton-obsidian-visual-skills",
+      "category": "Diagrams & Visualization",
+      "description": "Create Excalidraw, Mermaid, and Canvas visuals inside Obsidian"
+    },
+    {
+      "name": "markdown-viewer/skills",
+      "owner": "markdown-viewer",
+      "repo": "skills",
+      "url": "https://github.com/markdown-viewer/skills",
+      "category": "Diagrams & Visualization",
+      "description": "Build diagrams and visuals directly in Markdown"
+    },
+    {
+      "name": "tt-a1i/archify",
+      "owner": "tt-a1i",
+      "repo": "archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "category": "Diagrams & Visualization",
+      "description": "Generate architecture and workflow diagrams from plain English"
+    },
+    {
+      "name": "zarazhangrui/frontend-slides",
+      "owner": "zarazhangrui",
+      "repo": "frontend-slides",
+      "url": "https://github.com/zarazhangrui/frontend-slides",
+      "category": "Docs, Slides & Office",
+      "description": "Generate polished HTML slide decks (and convert PowerPoint) in the browser"
+    },
+    {
+      "name": "op7418/guizang-ppt-skill",
+      "owner": "op7418",
+      "repo": "guizang-ppt-skill",
+      "url": "https://github.com/op7418/guizang-ppt-skill",
+      "category": "Docs, Slides & Office",
+      "description": "Create editorial, Swiss-style HTML presentation decks"
+    },
+    {
+      "name": "geekjourneyx/md2wechat-skill",
+      "owner": "geekjourneyx",
+      "repo": "md2wechat-skill",
+      "url": "https://github.com/geekjourneyx/md2wechat-skill",
+      "category": "Docs, Slides & Office",
+      "description": "Format and publish Markdown as WeChat articles"
+    },
+    {
+      "name": "ningzimu/codex-ppt-skill",
+      "owner": "ningzimu",
+      "repo": "codex-ppt-skill",
+      "url": "https://github.com/ningzimu/codex-ppt-skill",
+      "category": "Docs, Slides & Office",
+      "description": "Generate image-based PowerPoint decks from documents"
+    },
+    {
+      "name": "NyxTides/ppt-image-first",
+      "owner": "NyxTides",
+      "repo": "ppt-image-first",
+      "url": "https://github.com/NyxTides/ppt-image-first",
+      "category": "Docs, Slides & Office",
+      "description": "Generate image-first PowerPoint decks iteratively"
+    },
+    {
+      "name": "tfriedel/claude-office-skills",
+      "owner": "tfriedel",
+      "repo": "claude-office-skills",
+      "url": "https://github.com/tfriedel/claude-office-skills",
+      "category": "Docs, Slides & Office",
+      "description": "Create and edit PPTX, DOCX, XLSX, and PDF documents"
+    },
+    {
+      "name": "claude-office-skills/skills",
+      "owner": "claude-office-skills",
+      "repo": "skills",
+      "url": "https://github.com/claude-office-skills/skills",
+      "category": "Docs, Slides & Office",
+      "description": "Use 136+ ready skills for everyday office tasks"
+    },
+    {
+      "name": "JuliusBrussee/caveman",
+      "owner": "JuliusBrussee",
+      "repo": "caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "category": "Writing & Anti-Slop",
+      "description": "Cut token usage and cost by making the agent communicate tersely"
+    },
+    {
+      "name": "blader/humanizer",
+      "owner": "blader",
+      "repo": "humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "category": "Writing & Anti-Slop",
+      "description": "Strip tell-tale AI patterns out of generated text so it reads naturally"
+    },
+    {
+      "name": "op7418/Humanizer-zh",
+      "owner": "op7418",
+      "repo": "Humanizer-zh",
+      "url": "https://github.com/op7418/Humanizer-zh",
+      "category": "Writing & Anti-Slop",
+      "description": "Remove AI writing traces from Chinese text"
+    },
+    {
+      "name": "worldwonderer/oh-story-claudecode",
+      "owner": "worldwonderer",
+      "repo": "oh-story-claudecode",
+      "url": "https://github.com/worldwonderer/oh-story-claudecode",
+      "category": "Writing & Anti-Slop",
+      "description": "Write and analyze Chinese web novels end-to-end"
+    },
+    {
+      "name": "oaker-io/wewrite",
+      "owner": "oaker-io",
+      "repo": "wewrite",
+      "url": "https://github.com/oaker-io/wewrite",
+      "category": "Writing & Anti-Slop",
+      "description": "Automate WeChat article research, writing, and formatting"
+    },
+    {
+      "name": "conorbronsdon/avoid-ai-writing",
+      "owner": "conorbronsdon",
+      "repo": "avoid-ai-writing",
+      "url": "https://github.com/conorbronsdon/avoid-ai-writing",
+      "category": "Writing & Anti-Slop",
+      "description": "Rewrite text to remove AI writing patterns (portable across agents)"
+    },
+    {
+      "name": "AgriciDaniel/claude-blog",
+      "owner": "AgriciDaniel",
+      "repo": "claude-blog",
+      "url": "https://github.com/AgriciDaniel/claude-blog",
+      "category": "Writing & Anti-Slop",
+      "description": "Write, optimize, and audit blog content end-to-end"
+    },
+    {
+      "name": "coreyhaines31/marketingskills",
+      "owner": "coreyhaines31",
+      "repo": "marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "category": "Marketing, SEO & Growth",
+      "description": "Run CRO, copywriting, SEO, and analytics tasks with marketing-specific skills"
+    },
+    {
+      "name": "AgriciDaniel/claude-seo",
+      "owner": "AgriciDaniel",
+      "repo": "claude-seo",
+      "url": "https://github.com/AgriciDaniel/claude-seo",
+      "category": "Marketing, SEO & Growth",
+      "description": "Run a full SEO audit using orchestrated sub-skills and agents"
+    },
+    {
+      "name": "zubair-trabzada/geo-seo-claude",
+      "owner": "zubair-trabzada",
+      "repo": "geo-seo-claude",
+      "url": "https://github.com/zubair-trabzada/geo-seo-claude",
+      "category": "Marketing, SEO & Growth",
+      "description": "Optimize sites to rank in AI-powered search engines (GEO)"
+    },
+    {
+      "name": "AgriciDaniel/claude-ads",
+      "owner": "AgriciDaniel",
+      "repo": "claude-ads",
+      "url": "https://github.com/AgriciDaniel/claude-ads",
+      "category": "Marketing, SEO & Growth",
+      "description": "Audit paid-ad accounts across eight ad platforms"
+    },
+    {
+      "name": "ParthJadhav/app-store-screenshots",
+      "owner": "ParthJadhav",
+      "repo": "app-store-screenshots",
+      "url": "https://github.com/ParthJadhav/app-store-screenshots",
+      "category": "Marketing, SEO & Growth",
+      "description": "Generate App Store marketing screenshots end-to-end"
+    },
+    {
+      "name": "op7418/guizang-social-card-skill",
+      "owner": "op7418",
+      "repo": "guizang-social-card-skill",
+      "url": "https://github.com/op7418/guizang-social-card-skill",
+      "category": "Marketing, SEO & Growth",
+      "description": "Create Xiaohongshu carousels and WeChat cover cards"
+    },
+    {
+      "name": "nowork-studio/NotFair",
+      "owner": "nowork-studio",
+      "repo": "NotFair",
+      "url": "https://github.com/nowork-studio/NotFair",
+      "category": "Marketing, SEO & Growth",
+      "description": "Manage SEO, Google Ads, and Meta Ads campaigns"
+    },
+    {
+      "name": "aaron-he-zhu/seo-geo-claude-skills",
+      "owner": "aaron-he-zhu",
+      "repo": "seo-geo-claude-skills",
+      "url": "https://github.com/aaron-he-zhu/seo-geo-claude-skills",
+      "category": "Marketing, SEO & Growth",
+      "description": "Produce SEO and generative-engine-optimization content workflows"
+    },
+    {
+      "name": "zubair-trabzada/ai-marketing-claude",
+      "owner": "zubair-trabzada",
+      "repo": "ai-marketing-claude",
+      "url": "https://github.com/zubair-trabzada/ai-marketing-claude",
+      "category": "Marketing, SEO & Growth",
+      "description": "Run connected marketing audits, copywriting, and client deliverables"
+    },
+    {
+      "name": "Eronred/aso-skills",
+      "owner": "Eronred",
+      "repo": "aso-skills",
+      "url": "https://github.com/Eronred/aso-skills",
+      "category": "Marketing, SEO & Growth",
+      "description": "Run App Store Optimization and app-marketing tasks"
+    },
+    {
+      "name": "onvoyage-ai/gtm-engineer-skills",
+      "owner": "onvoyage-ai",
+      "repo": "gtm-engineer-skills",
+      "url": "https://github.com/onvoyage-ai/gtm-engineer-skills",
+      "category": "Marketing, SEO & Growth",
+      "description": "Improve AI-search discoverability and content ranking"
+    },
+    {
+      "name": "OthmanAdi/planning-with-files",
+      "owner": "OthmanAdi",
+      "repo": "planning-with-files",
+      "url": "https://github.com/OthmanAdi/planning-with-files",
+      "category": "Product & Project Management",
+      "description": "Keep long tasks on track with file-based plans that survive context loss"
+    },
+    {
+      "name": "phuryn/pm-skills",
+      "owner": "phuryn",
+      "repo": "pm-skills",
+      "url": "https://github.com/phuryn/pm-skills",
+      "category": "Product & Project Management",
+      "description": "Run product discovery, strategy, execution, and growth workflows"
+    },
+    {
+      "name": "automazeio/ccpm",
+      "owner": "automazeio",
+      "repo": "ccpm",
+      "url": "https://github.com/automazeio/ccpm",
+      "category": "Product & Project Management",
+      "description": "Manage projects spec-first using GitHub issues and git worktrees"
+    },
+    {
+      "name": "deanpeters/Product-Manager-Skills",
+      "owner": "deanpeters",
+      "repo": "Product-Manager-Skills",
+      "url": "https://github.com/deanpeters/Product-Manager-Skills",
+      "category": "Product & Project Management",
+      "description": "Apply proven product-management frameworks"
+    },
+    {
+      "name": "rjs/shaping-skills",
+      "owner": "rjs",
+      "repo": "shaping-skills",
+      "url": "https://github.com/rjs/shaping-skills",
+      "category": "Product & Project Management",
+      "description": "Run Shape Up shaping and breadboarding sessions"
+    },
+    {
+      "name": "RefoundAI/lenny-skills",
+      "owner": "RefoundAI",
+      "repo": "lenny-skills",
+      "url": "https://github.com/RefoundAI/lenny-skills",
+      "category": "Product & Project Management",
+      "description": "Apply 86 product-management skills from Lenny's Podcast"
+    },
+    {
+      "name": "mohitagw15856/pm-claude-skills",
+      "owner": "mohitagw15856",
+      "repo": "pm-claude-skills",
+      "url": "https://github.com/mohitagw15856/pm-claude-skills",
+      "category": "Product & Project Management",
+      "description": "Use 167 professional skills spanning 17 professions"
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "owner": "mvanhorn",
+      "repo": "last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "category": "Research & Science",
+      "description": "Research a topic across Reddit, X, YouTube, and HN ranked by recent engagement"
+    },
+    {
+      "name": "Imbad0202/academic-research-skills",
+      "owner": "Imbad0202",
+      "repo": "academic-research-skills",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "category": "Research & Science",
+      "description": "Take a paper from literature search through writing and peer review"
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "owner": "K-Dense-AI",
+      "repo": "scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "category": "Research & Science",
+      "description": "Turn an agent into a science assistant across biology, chemistry, and drug discovery"
+    },
+    {
+      "name": "wanshuiyin/Auto-claude-code-research-in-sleep",
+      "owner": "wanshuiyin",
+      "repo": "Auto-claude-code-research-in-sleep",
+      "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+      "category": "Research & Science",
+      "description": "Run autonomous, overnight ML research with cross-model review"
+    },
+    {
+      "name": "Orchestra-Research/AI-Research-SKILLs",
+      "owner": "Orchestra-Research",
+      "repo": "AI-Research-SKILLs",
+      "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs",
+      "category": "Research & Science",
+      "description": "Cover the AI research lifecycle with a 98-skill library"
+    },
+    {
+      "name": "Master-cai/Research-Paper-Writing-Skills",
+      "owner": "Master-cai",
+      "repo": "Research-Paper-Writing-Skills",
+      "url": "https://github.com/Master-cai/Research-Paper-Writing-Skills",
+      "category": "Research & Science",
+      "description": "Draft and refine ML/CV/NLP research papers"
+    },
+    {
+      "name": "google-deepmind/science-skills",
+      "owner": "google-deepmind",
+      "repo": "science-skills",
+      "url": "https://github.com/google-deepmind/science-skills",
+      "category": "Research & Science",
+      "description": "Speed up genomics, structural biology, and cheminformatics work"
+    },
+    {
+      "name": "PrathamLearnsToCode/paper2code",
+      "owner": "PrathamLearnsToCode",
+      "repo": "paper2code",
+      "url": "https://github.com/PrathamLearnsToCode/paper2code",
+      "category": "Research & Science",
+      "description": "Turn an arXiv paper into a working, citation-anchored implementation"
+    },
+    {
+      "name": "Weizhena/Deep-Research-skills",
+      "owner": "Weizhena",
+      "repo": "Deep-Research-skills",
+      "url": "https://github.com/Weizhena/Deep-Research-skills",
+      "category": "Research & Science",
+      "description": "Run multi-phase research workflows with human checkpoints"
+    },
+    {
+      "name": "rohunvora/x-research-skill",
+      "owner": "rohunvora",
+      "repo": "x-research-skill",
+      "url": "https://github.com/rohunvora/x-research-skill",
+      "category": "Research & Science",
+      "description": "Research X/Twitter via a read-only, sourced search skill"
+    },
+    {
+      "name": "GPTomics/bioSkills",
+      "owner": "GPTomics",
+      "repo": "bioSkills",
+      "url": "https://github.com/GPTomics/bioSkills",
+      "category": "Research & Science",
+      "description": "Do bioinformatics with 543 ready skills"
+    },
+    {
+      "name": "cookiy-ai/user-research-skill",
+      "owner": "cookiy-ai",
+      "repo": "user-research-skill",
+      "url": "https://github.com/cookiy-ai/user-research-skill",
+      "category": "Research & Science",
+      "description": "Plan, run, and synthesize user research end-to-end"
+    },
+    {
+      "name": "kepano/obsidian-skills",
+      "owner": "kepano",
+      "repo": "obsidian-skills",
+      "url": "https://github.com/kepano/obsidian-skills",
+      "category": "Knowledge Management",
+      "description": "Let the agent operate an Obsidian vault — markdown, canvas, and notes"
+    },
+    {
+      "name": "PleasePrompto/notebooklm-skill",
+      "owner": "PleasePrompto",
+      "repo": "notebooklm-skill",
+      "url": "https://github.com/PleasePrompto/notebooklm-skill",
+      "category": "Knowledge Management",
+      "description": "Drive Google NotebookLM from your agent via browser automation"
+    },
+    {
+      "name": "AgriciDaniel/claude-obsidian",
+      "owner": "AgriciDaniel",
+      "repo": "claude-obsidian",
+      "url": "https://github.com/AgriciDaniel/claude-obsidian",
+      "category": "Knowledge Management",
+      "description": "Auto-organize sources into a searchable Obsidian vault"
+    },
+    {
+      "name": "eugeniughelbur/obsidian-second-brain",
+      "owner": "eugeniughelbur",
+      "repo": "obsidian-second-brain",
+      "url": "https://github.com/eugeniughelbur/obsidian-second-brain",
+      "category": "Knowledge Management",
+      "description": "Turn an Obsidian vault into a self-maintaining knowledge base"
+    },
+    {
+      "name": "Ar9av/obsidian-wiki",
+      "owner": "Ar9av",
+      "repo": "obsidian-wiki",
+      "url": "https://github.com/Ar9av/obsidian-wiki",
+      "category": "Knowledge Management",
+      "description": "Build and maintain an Obsidian-based knowledge wiki"
+    },
+    {
+      "name": "Astro-Han/karpathy-llm-wiki",
+      "owner": "Astro-Han",
+      "repo": "karpathy-llm-wiki",
+      "url": "https://github.com/Astro-Han/karpathy-llm-wiki",
+      "category": "Knowledge Management",
+      "description": "Build and maintain a structured LLM knowledge wiki"
+    },
+    {
+      "name": "coleam00/second-brain-skills",
+      "owner": "coleam00",
+      "repo": "second-brain-skills",
+      "url": "https://github.com/coleam00/second-brain-skills",
+      "category": "Knowledge Management",
+      "description": "Turn Claude Code into a second brain for notes, docs, and media"
+    },
+    {
+      "name": "SawyerHood/dev-browser",
+      "owner": "SawyerHood",
+      "repo": "dev-browser",
+      "url": "https://github.com/SawyerHood/dev-browser",
+      "category": "Browser Automation",
+      "description": "Give the agent a sandboxed browser it can drive with Playwright"
+    },
+    {
+      "name": "browserbase/skills",
+      "owner": "browserbase",
+      "repo": "skills",
+      "url": "https://github.com/browserbase/skills",
+      "category": "Browser Automation",
+      "description": "Automate and scrape the web through Browserbase"
+    },
+    {
+      "name": "lackeyjb/playwright-skill",
+      "owner": "lackeyjb",
+      "repo": "playwright-skill",
+      "url": "https://github.com/lackeyjb/playwright-skill",
+      "category": "Browser Automation",
+      "description": "Have the agent write and run Playwright browser automation"
+    },
+    {
+      "name": "apify/agent-skills",
+      "owner": "apify",
+      "repo": "agent-skills",
+      "url": "https://github.com/apify/agent-skills",
+      "category": "Browser Automation",
+      "description": "Scrape and automate the web with Apify skills"
+    },
+    {
+      "name": "JimLiu/baoyu-skills",
+      "owner": "JimLiu",
+      "repo": "baoyu-skills",
+      "url": "https://github.com/JimLiu/baoyu-skills",
+      "category": "Media: Image & Video",
+      "description": "Produce images, infographics, slides, and social posts for content creation"
+    },
+    {
+      "name": "ConardLi/garden-skills",
+      "owner": "ConardLi",
+      "repo": "garden-skills",
+      "url": "https://github.com/ConardLi/garden-skills",
+      "category": "Media: Image & Video",
+      "description": "Create presentations, web designs, images, and articles"
+    },
+    {
+      "name": "SamurAIGPT/Generative-Media-Skills",
+      "owner": "SamurAIGPT",
+      "repo": "Generative-Media-Skills",
+      "url": "https://github.com/SamurAIGPT/Generative-Media-Skills",
+      "category": "Media: Image & Video",
+      "description": "Generate multimodal media (image, audio, video) with one toolkit"
+    },
+    {
+      "name": "wuyoscar/GPT-Image2-Skill",
+      "owner": "wuyoscar",
+      "repo": "GPT-Image2-Skill",
+      "url": "https://github.com/wuyoscar/GPT-Image2-Skill",
+      "category": "Media: Image & Video",
+      "description": "Generate images with a curated GPT-image prompt library and CLI"
+    },
+    {
+      "name": "0x0funky/agent-sprite-forge",
+      "owner": "0x0funky",
+      "repo": "agent-sprite-forge",
+      "url": "https://github.com/0x0funky/agent-sprite-forge",
+      "category": "Media: Image & Video",
+      "description": "Generate 2D game sprite sheets and tilemap assets"
+    },
+    {
+      "name": "Ceeon/videocut-skills",
+      "owner": "Ceeon",
+      "repo": "videocut-skills",
+      "url": "https://github.com/Ceeon/videocut-skills",
+      "category": "Media: Image & Video",
+      "description": "Detect and cut problematic segments from spoken videos"
+    },
+    {
+      "name": "luoluoluo22/jianying-editor-skill",
+      "owner": "luoluoluo22",
+      "repo": "jianying-editor-skill",
+      "url": "https://github.com/luoluoluo22/jianying-editor-skill",
+      "category": "Media: Image & Video",
+      "description": "Automate JianYing/CapCut for end-to-end video editing"
+    },
+    {
+      "name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+      "owner": "YouMind-OpenLab",
+      "repo": "nano-banana-pro-prompts-recommend-skill",
+      "url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+      "category": "Media: Image & Video",
+      "description": "Get image-prompt recommendations for Gemini Nano Banana Pro"
+    },
+    {
+      "name": "liangdabiao/Seedance2-Storyboard-Generator",
+      "owner": "liangdabiao",
+      "repo": "Seedance2-Storyboard-Generator",
+      "url": "https://github.com/liangdabiao/Seedance2-Storyboard-Generator",
+      "category": "Media: Image & Video",
+      "description": "Generate video storyboards and Seedance prompts"
+    },
+    {
+      "name": "huangserva/skill-prompt-generator",
+      "owner": "huangserva",
+      "repo": "skill-prompt-generator",
+      "url": "https://github.com/huangserva/skill-prompt-generator",
+      "category": "Media: Image & Video",
+      "description": "Generate high-quality image prompts via expert-domain libraries"
+    },
+    {
+      "name": "NarratorAI-Studio/narrator-ai-cli-skill",
+      "owner": "NarratorAI-Studio",
+      "repo": "narrator-ai-cli-skill",
+      "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill",
+      "category": "Media: Image & Video",
+      "description": "Create movie-style narration videos"
+    },
+    {
+      "name": "twostraws/SwiftUI-Agent-Skill",
+      "owner": "twostraws",
+      "repo": "SwiftUI-Agent-Skill",
+      "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
+      "category": "Mobile & Apple",
+      "description": "Get Paul Hudson's guidance for writing modern SwiftUI"
+    },
+    {
+      "name": "AvdLee/SwiftUI-Agent-Skill",
+      "owner": "AvdLee",
+      "repo": "SwiftUI-Agent-Skill",
+      "url": "https://github.com/AvdLee/SwiftUI-Agent-Skill",
+      "category": "Mobile & Apple",
+      "description": "Apply SwiftUI best practices with Instruments trace analysis"
+    },
+    {
+      "name": "AvdLee/Swift-Concurrency-Agent-Skill",
+      "owner": "AvdLee",
+      "repo": "Swift-Concurrency-Agent-Skill",
+      "url": "https://github.com/AvdLee/Swift-Concurrency-Agent-Skill",
+      "category": "Mobile & Apple",
+      "description": "Get Swift Concurrency guidance and Swift 6 migration help"
+    },
+    {
+      "name": "callstackincubator/agent-skills",
+      "owner": "callstackincubator",
+      "repo": "agent-skills",
+      "url": "https://github.com/callstackincubator/agent-skills",
+      "category": "Mobile & Apple",
+      "description": "Build React Native apps with agent-optimized skills"
+    },
+    {
+      "name": "conorluddy/ios-simulator-skill",
+      "owner": "conorluddy",
+      "repo": "ios-simulator-skill",
+      "url": "https://github.com/conorluddy/ios-simulator-skill",
+      "category": "Mobile & Apple",
+      "description": "Automate iOS builds, tests, and simulator interaction"
+    },
+    {
+      "name": "adamlyttleapps/claude-skill-app-onboarding-questionnaire",
+      "owner": "adamlyttleapps",
+      "repo": "claude-skill-app-onboarding-questionnaire",
+      "url": "https://github.com/adamlyttleapps/claude-skill-app-onboarding-questionnaire",
+      "category": "Mobile & Apple",
+      "description": "Design high-converting app onboarding flows from your codebase"
+    },
+    {
+      "name": "CharlesWiltgen/Axiom",
+      "owner": "CharlesWiltgen",
+      "repo": "Axiom",
+      "url": "https://github.com/CharlesWiltgen/Axiom",
+      "category": "Mobile & Apple",
+      "description": "Develop across Apple platforms with diagnostics-backed skills"
+    },
+    {
+      "name": "new-silvermoon/awesome-android-agent-skills",
+      "owner": "new-silvermoon",
+      "repo": "awesome-android-agent-skills",
+      "url": "https://github.com/new-silvermoon/awesome-android-agent-skills",
+      "category": "Mobile & Apple",
+      "description": "Teach agents modern Android development practices"
+    },
+    {
+      "name": "twostraws/Swift-Concurrency-Agent-Skill",
+      "owner": "twostraws",
+      "repo": "Swift-Concurrency-Agent-Skill",
+      "url": "https://github.com/twostraws/Swift-Concurrency-Agent-Skill",
+      "category": "Mobile & Apple",
+      "description": "Write correct Swift concurrency code"
+    },
+    {
+      "name": "skydoves/compose-performance-skills",
+      "owner": "skydoves",
+      "repo": "compose-performance-skills",
+      "url": "https://github.com/skydoves/compose-performance-skills",
+      "category": "Mobile & Apple",
+      "description": "Diagnose and fix Jetpack Compose performance problems"
+    },
+    {
+      "name": "twostraws/Swift-Testing-Agent-Skill",
+      "owner": "twostraws",
+      "repo": "Swift-Testing-Agent-Skill",
+      "url": "https://github.com/twostraws/Swift-Testing-Agent-Skill",
+      "category": "Mobile & Apple",
+      "description": "Write better Swift Testing code"
+    },
+    {
+      "name": "twostraws/SwiftData-Agent-Skill",
+      "owner": "twostraws",
+      "repo": "SwiftData-Agent-Skill",
+      "url": "https://github.com/twostraws/SwiftData-Agent-Skill",
+      "category": "Mobile & Apple",
+      "description": "Write better SwiftData code"
+    },
+    {
+      "name": "uditgoenka/autoresearch",
+      "owner": "uditgoenka",
+      "repo": "autoresearch",
+      "url": "https://github.com/uditgoenka/autoresearch",
+      "category": "Self-Improving Skills",
+      "description": "Have the agent iterate autonomously toward a measurable goal"
+    },
+    {
+      "name": "alchaincyf/darwin-skill",
+      "owner": "alchaincyf",
+      "repo": "darwin-skill",
+      "url": "https://github.com/alchaincyf/darwin-skill",
+      "category": "Self-Improving Skills",
+      "description": "Let a skill evaluate and improve your other skills over time"
+    },
+    {
+      "name": "AMAP-ML/SkillClaw",
+      "owner": "AMAP-ML",
+      "repo": "SkillClaw",
+      "url": "https://github.com/AMAP-ML/SkillClaw",
+      "category": "Self-Improving Skills",
+      "description": "Evolve and dedupe reusable skills across sessions"
+    },
+    {
+      "name": "BayramAnnakov/claude-reflect",
+      "owner": "BayramAnnakov",
+      "repo": "claude-reflect",
+      "url": "https://github.com/BayramAnnakov/claude-reflect",
+      "category": "Self-Improving Skills",
+      "description": "Capture corrections and turn them into reusable skills automatically"
+    },
+    {
+      "name": "blader/napkin",
+      "owner": "blader",
+      "repo": "napkin",
+      "url": "https://github.com/blader/napkin",
+      "category": "Self-Improving Skills",
+      "description": "Give the agent persistent memory of its past mistakes per repo"
+    },
+    {
+      "name": "earthtojake/text-to-cad",
+      "owner": "earthtojake",
+      "repo": "text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "category": "Domain-Specific",
+      "description": "Generate CAD, robotics, and hardware designs from natural language"
+    },
+    {
+      "name": "czlonkowski/n8n-skills",
+      "owner": "czlonkowski",
+      "repo": "n8n-skills",
+      "url": "https://github.com/czlonkowski/n8n-skills",
+      "category": "Domain-Specific",
+      "description": "Build reliable n8n automation workflows"
+    },
+    {
+      "name": "anysearch-ai/anysearch-skill",
+      "owner": "anysearch-ai",
+      "repo": "anysearch-skill",
+      "url": "https://github.com/anysearch-ai/anysearch-skill",
+      "category": "Domain-Specific",
+      "description": "Add unified real-time web search to your agent"
+    },
+    {
+      "name": "himself65/finance-skills",
+      "owner": "himself65",
+      "repo": "finance-skills",
+      "url": "https://github.com/himself65/finance-skills",
+      "category": "Domain-Specific",
+      "description": "Run market analysis and pull finance data for startups"
+    },
+    {
+      "name": "RKiding/Awesome-finance-skills",
+      "owner": "RKiding",
+      "repo": "Awesome-finance-skills",
+      "url": "https://github.com/RKiding/Awesome-finance-skills",
+      "category": "Domain-Specific",
+      "description": "Pull modular skills for financial data, news, sentiment, and forecasting"
+    },
+    {
+      "name": "muxuuu/serenity-skill",
+      "owner": "muxuuu",
+      "repo": "serenity-skill",
+      "url": "https://github.com/muxuuu/serenity-skill",
+      "category": "Domain-Specific",
+      "description": "Apply supply-chain methodology to investment research"
+    },
+    {
+      "name": "romainsimon/paperasse",
+      "owner": "romainsimon",
+      "repo": "paperasse",
+      "url": "https://github.com/romainsimon/paperasse",
+      "category": "Domain-Specific",
+      "description": "Handle French accounting, tax, notary, and audit tasks"
+    },
+    {
+      "name": "tradermonty/claude-trading-skills",
+      "owner": "tradermonty",
+      "repo": "claude-trading-skills",
+      "url": "https://github.com/tradermonty/claude-trading-skills",
+      "category": "Domain-Specific",
+      "description": "Run educational trading and market-analysis workflows"
+    },
+    {
+      "name": "timescale/pg-aiguide",
+      "owner": "timescale",
+      "repo": "pg-aiguide",
+      "url": "https://github.com/timescale/pg-aiguide",
+      "category": "Domain-Specific",
+      "description": "Follow PostgreSQL best practices in AI-assisted coding"
+    },
+    {
+      "name": "jherrodthomas/automotive-skills-suite",
+      "owner": "jherrodthomas",
+      "repo": "automotive-skills-suite",
+      "url": "https://github.com/jherrodthomas/automotive-skills-suite",
+      "category": "Domain-Specific",
+      "description": "Cover automotive engineering and compliance workflows"
+    },
+    {
+      "name": "zubair-trabzada/ai-legal-claude",
+      "owner": "zubair-trabzada",
+      "repo": "ai-legal-claude",
+      "url": "https://github.com/zubair-trabzada/ai-legal-claude",
+      "category": "Domain-Specific",
+      "description": "Review contracts and check legal compliance"
+    },
+    {
+      "name": "itsmostafa/aws-agent-skills",
+      "owner": "itsmostafa",
+      "repo": "aws-agent-skills",
+      "url": "https://github.com/itsmostafa/aws-agent-skills",
+      "category": "Domain-Specific",
+      "description": "Get token-efficient AWS engineering knowledge"
+    },
+    {
+      "name": "data-goblin/power-bi-agentic-development",
+      "owner": "data-goblin",
+      "repo": "power-bi-agentic-development",
+      "url": "https://github.com/data-goblin/power-bi-agentic-development",
+      "category": "Domain-Specific",
+      "description": "Build Power BI reports with skills, subagents, and hooks"
+    },
+    {
+      "name": "aklofas/kicad-happy",
+      "owner": "aklofas",
+      "repo": "kicad-happy",
+      "url": "https://github.com/aklofas/kicad-happy",
+      "category": "Domain-Specific",
+      "description": "Design electronics and analyze PCBs in KiCad"
+    },
+    {
+      "name": "zhinkgit/embeddedskills",
+      "owner": "zhinkgit",
+      "repo": "embeddedskills",
+      "url": "https://github.com/zhinkgit/embeddedskills",
+      "category": "Domain-Specific",
+      "description": "Automate embedded compile-flash-debug toolchains"
+    },
+    {
+      "name": "liyupi/yupi-skill",
+      "owner": "liyupi",
+      "repo": "yupi-skill",
+      "url": "https://github.com/liyupi/yupi-skill",
+      "category": "Domain-Specific",
+      "description": "Get programming, career, and resume help in creator Yupi's style"
+    },
+    {
+      "name": "evolsb/claude-legal-skill",
+      "owner": "evolsb",
+      "repo": "claude-legal-skill",
+      "url": "https://github.com/evolsb/claude-legal-skill",
+      "category": "Domain-Specific",
+      "description": "Review contracts with CUAD risk detection and benchmarks"
+    },
+    {
+      "name": "zxkane/aws-skills",
+      "owner": "zxkane",
+      "repo": "aws-skills",
+      "url": "https://github.com/zxkane/aws-skills",
+      "category": "Domain-Specific",
+      "description": "Develop on AWS (IaC, serverless, cost) with skills and plugins"
+    },
+    {
+      "name": "jherrodthomas/robotics-skills-suite",
+      "owner": "jherrodthomas",
+      "repo": "robotics-skills-suite",
+      "url": "https://github.com/jherrodthomas/robotics-skills-suite",
+      "category": "Domain-Specific",
+      "description": "Automate industrial robotics with audit-ready, reviewed skills"
+    },
+    {
+      "name": "zarazhangrui/codebase-to-course",
+      "owner": "zarazhangrui",
+      "repo": "codebase-to-course",
+      "url": "https://github.com/zarazhangrui/codebase-to-course",
+      "category": "Learning & Guides",
+      "description": "Turn any codebase into an interactive HTML course"
+    },
+    {
+      "name": "DrCatHicks/learning-opportunities",
+      "owner": "DrCatHicks",
+      "repo": "learning-opportunities",
+      "url": "https://github.com/DrCatHicks/learning-opportunities",
+      "category": "Learning & Guides",
+      "description": "Learn while coding via inserted, evidence-based exercises"
+    }
+  ]
+}
