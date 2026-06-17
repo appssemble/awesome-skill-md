@@ -2,7 +2,7 @@
 
 > A curated list of the most-starred, community-loved [Agent Skills](https://www.anthropic.com/news/agent-skills) — repositories built around `SKILL.md` files that teach AI coding agents (Claude Code, Codex, Cursor, Gemini CLI, and others) new capabilities.
 
-**Agent Skills** are folders containing a `SKILL.md` file — a Markdown document with YAML frontmatter that packages reusable instructions, scripts, and resources an agent loads on demand. This list collects **224 hand-vetted repositories**: individual skills, curated collections, official vendor skills, and the tooling around them.
+**Agent Skills** are folders containing a `SKILL.md` file — a Markdown document with YAML frontmatter that packages reusable instructions, scripts, and resources an agent loads on demand. This list collects **217 hand-vetted repositories**: individual skills, curated collections, official vendor skills, and the tooling around them.
 
 ## Contents
 
@@ -72,21 +72,14 @@
 
 - **[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)** — Browse a vetted directory when hunting for a ready-made Claude skill or plugin
 - **[sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)** — Install from a large aggregated library of ready-to-use skill playbooks
-- **[VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)** — Find real, in-use Agent Skills contributed by teams and the community
-- **[travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills)** — Browse a broad index of Claude Skills, resources, and tools
-- **[BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills)** — Browse Claude Skills organized across many categories
-- **[heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills)** — Find real-world Agent Skills plus tutorials and directories
 - **[libukai/awesome-agent-skills](https://github.com/libukai/awesome-agent-skills)** — Use as a guide and resource hub for getting started with skills
 - **[tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills)** — Install from a security-reviewed catalog of verified skills
-- **[xixu-me/awesome-persona-distill-skills](https://github.com/xixu-me/awesome-persona-distill-skills)** — Find skills that distill people and personas for your agent
 - **[rohitg00/awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit)** — Browse a big toolkit of Claude Code agents, plugins, and skills
-- **[twostraws/Swift-Agent-Skills](https://github.com/twostraws/Swift-Agent-Skills)** — Find open-source agent skills for Swift development
 - **[Prat011/awesome-llm-skills](https://github.com/Prat011/awesome-llm-skills)** — Browse a catalog of LLM and agent skills and resources
 - **[bergside/awesome-design-skills](https://github.com/bergside/awesome-design-skills)** — Find design-focused SKILL.md and DESIGN.md files
 - **[daymade/claude-code-skills](https://github.com/daymade/claude-code-skills)** — Browse a marketplace of 64+ production skills with a skill-creator
 - **[JackyST0/awesome-agent-skills](https://github.com/JackyST0/awesome-agent-skills)** — Find Agent Skills that work across Cursor, Claude Code, and Copilot
 - **[Gentleman-Programming/Gentleman-Skills](https://github.com/Gentleman-Programming/Gentleman-Skills)** — Pull community best-practice coding skills for frameworks
-- **[karanb192/awesome-claude-skills](https://github.com/karanb192/awesome-claude-skills)** — Browse a definitive set of verified Claude skills
 - **[nicepkg/ai-workflow](https://github.com/nicepkg/ai-workflow)** — Install 170+ prebuilt skills organized as AI workflows
 
 ### Tooling & Management
