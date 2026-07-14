@@ -2,7 +2,7 @@
 
 > A curated list of the most-starred, community-loved [Agent Skills](https://www.anthropic.com/news/agent-skills) — repositories built around `SKILL.md` files that teach AI coding agents (Claude Code, Codex, Cursor, Gemini CLI, and others) new capabilities.
 
-**Agent Skills** are folders containing a `SKILL.md` file — a Markdown document with YAML frontmatter that packages reusable instructions, scripts, and resources an agent loads on demand. This list collects **242 hand-vetted repositories**: individual skills, curated collections, official vendor skills, and the tooling around them.
+**Agent Skills** are folders containing a `SKILL.md` file — a Markdown document with YAML frontmatter that packages reusable instructions, scripts, and resources an agent loads on demand. This list collects **241 hand-vetted repositories**: individual skills, curated collections, official vendor skills, and the tooling around them.
 
 ## Contents
 
@@ -30,17 +30,21 @@
 - [Contributing](#contributing)
 
 ---
-
 ### Frameworks & Methodology
 
 - **[obra/superpowers](https://github.com/obra/superpowers)** — Make your coding agent follow a disciplined TDD, debugging, and review workflow
+- **[affaan-m/ECC](https://github.com/affaan-m/ECC)** — Agent harness optimization framework with skills, memory, security, and research-first workflows.
+- **[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)** — Specialized AI agency agent collection with personality- and workflow-driven specialists.
+- **[garrytan/gstack](https://github.com/garrytan/gstack)** — Opinionated Claude Code setup for engineering leadership and execution roles.
+- **[bytedance/deer-flow](https://github.com/bytedance/deer-flow)** — Long-horizon SuperAgent harness for research, coding, and autonomous multi-stage tasks.
+- **[shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)** — Practical guidance for moving from quick coding prompts to engineered agentic workflows.
+- **[Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)** — Teams-first multi-agent orchestration for Claude Code.
 - **[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** — Apply context-engineering and multi-agent patterns to larger workflows
 - **[jnMetaCode/superpowers-zh](https://github.com/jnMetaCode/superpowers-zh)** — Use the superpowers methodology in Chinese
 - **[tw93/Waza](https://github.com/tw93/Waza)** — Encode your engineering habits as repeatable agent workflows
 - **[gotalab/cc-sdd](https://github.com/gotalab/cc-sdd)** — Drive spec-driven development across multiple coding agents
 - **[HughYau/qiushi-skill](https://github.com/HughYau/qiushi-skill)** — Give the agent structured thinking frameworks for tough decisions
 - **[SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red)** — Agent skill repository.
-- **[mgechev/skills-best-practices](https://github.com/mgechev/skills-best-practices)** — Author effective skills using proven structure and guidance
 - **[DenisSergeevitch/agents-best-practices](https://github.com/DenisSergeevitch/agents-best-practices)** — Follow best practices for building production-safe harnesses
 - **[elementalsouls/Claude-OSINT](https://github.com/elementalsouls/Claude-OSINT)** — Agent skill repository.
 - **[xu-xiang/everything-claude-code-zh](https://github.com/xu-xiang/everything-claude-code-zh)** — Use a full Claude Code configuration system in Chinese
@@ -48,7 +52,6 @@
 - **[tjboudreaux/cc-thinking-skills](https://github.com/tjboudreaux/cc-thinking-skills)** — Apply 18 mental models and critical-thinking frameworks
 - **[sno-ai/mda](https://github.com/sno-ai/mda)** — Agent skill repository.
 - **[gamedev-skills/awesome-gamedev-agent-skills](https://github.com/gamedev-skills/awesome-gamedev-agent-skills)** — Agent skill repository.
-- **[jzOcb/writing-style-skill](https://github.com/jzOcb/writing-style-skill)** — Agent skill repository.
 - **[K-Dense-AI/mimeo](https://github.com/K-Dense-AI/mimeo)** — Agent skill repository.
 
 
@@ -60,7 +63,6 @@
 - **[huggingface/skills](https://github.com/huggingface/skills)** — Let agents work the Hugging Face Hub and run ML tasks
 - **[google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)** — Design and build UIs with Google Labs' Stitch skills
 - **[OpenSenseNova/SenseNova-Skills](https://github.com/OpenSenseNova/SenseNova-Skills)** — Automate office tasks — images, PPT, and data — with SenseNova skills
-- **[remotion-dev/skills](https://github.com/remotion-dev/skills)** — Program videos with Remotion's official skills
 - **[google-gemini/gemini-skills](https://github.com/google-gemini/gemini-skills)** — Build against the Gemini API with Google's official skills
 - **[microsoft/skills](https://github.com/microsoft/skills)** — Ground coding agents in Azure SDK skills and configs
 - **[supabase/agent-skills](https://github.com/supabase/agent-skills)** — Build database and backend features with official Supabase skills
@@ -70,15 +72,16 @@
 - **[microsoft/skills-for-fabric](https://github.com/microsoft/skills-for-fabric)** — Build on Microsoft Fabric with official skill bundles
 - **[hashicorp/agent-skills](https://github.com/hashicorp/agent-skills)** — Work with Terraform, Packer, and HCL using HashiCorp's skills
 - **[solana-foundation/solana-dev-skill](https://github.com/solana-foundation/solana-dev-skill)** — Build on Solana with the foundation's official skill
-- **[posit-dev/skills](https://github.com/posit-dev/skills)** — Develop R, Shiny, and Quarto projects with Posit's skills
 - **[microsoft/power-platform-skills](https://github.com/microsoft/power-platform-skills)** — Build Power Platform Pages, Apps, and Canvas
-- **[youngfreeFJS/skill-test-skill](https://github.com/youngfreeFJS/skill-test-skill)** — Tests and scores any Agent Skill against the official anthropics/skills specification. Use this skill when you need to check if a skill repository or SKILL.md file is…
+- **[posit-dev/skills](https://github.com/posit-dev/skills)** — Develop R, Shiny, and Quarto projects with Posit's skills
 
 
 ### Curated Lists
 
 - **[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)** — Browse a vetted directory when hunting for a ready-made Claude skill or plugin
+- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** — A curated collection of 5,000+ OpenClaw skills with installer tooling and workflows.
 - **[sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)** — Install from a large aggregated library of ready-to-use skill playbooks
+- **[sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills)** — Large installable catalog of Claude Code and agentic SKILL files with workflow tooling.
 - **[github/awesome-copilot](https://github.com/github/awesome-copilot)** — Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - **[tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills)** — Install from a security-reviewed catalog of verified skills
 - **[libukai/awesome-agent-skills](https://github.com/libukai/awesome-agent-skills)** — Use as a guide and resource hub for getting started with skills
@@ -95,9 +98,14 @@
 
 ### Tooling & Management
 
+- **[openclaw/openclaw](https://github.com/openclaw/openclaw)** — Cross-platform AI assistant runtime with skill-driven agent workflows.
+- **[Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)** — AI coding assistant skill ecosystem that turns code and documents into a queryable knowledge graph.
+- **[code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)** — Codex/OpenCode-oriented coding agent harness with tooling integrations.
+- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** — CLI-Anything turns many native apps and CLIs into agent-native SKILL-driven tooling.
+- **[abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)** — Client-side knowledge-graph tool for repository and codebase exploration.
 - **[wshobson/agents](https://github.com/wshobson/agents)** — Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
+- **[sipeed/picoclaw](https://github.com/sipeed/picoclaw)** — Deployable skill tooling bundle for lightweight Claude Code automation.
 - **[googleworkspace/cli](https://github.com/googleworkspace/cli)** — Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes…
-- **[vercel-labs/skills](https://github.com/vercel-labs/skills)** — Discover, install, and manage skills across agents from one CLI
 - **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** — Convert your docs, repos, or PDFs into installable Agent Skills
 - **[microsoft/SkillOpt](https://github.com/microsoft/SkillOpt)** — Train and refine reusable skill documents automatically
 - **[numman-ali/openskills](https://github.com/numman-ali/openskills)** — Install skills universally across multiple agent platforms
@@ -145,8 +153,8 @@
 - **[softaworks/agent-toolkit](https://github.com/softaworks/agent-toolkit)** — Use packaged skills for dev, docs, and planning workflows
 - **[antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill)** — Write better Terraform and OpenTofu infrastructure code
 - **[glittercowboy/taches-cc-resources](https://github.com/glittercowboy/taches-cc-resources)** — Grab a resource pack of skills, commands, and subagents
-- **[skills-directory/skill-codex](https://github.com/skills-directory/skill-codex)** — Delegate code analysis to the Codex CLI from Claude Code
 - **[awesome-skills/code-review-skill](https://github.com/awesome-skills/code-review-skill)** — Run structured code reviews across 20+ languages
+- **[skills-directory/skill-codex](https://github.com/skills-directory/skill-codex)** — Delegate code analysis to the Codex CLI from Claude Code
 - **[Aaronontheweb/dotnet-skills](https://github.com/Aaronontheweb/dotnet-skills)** — Get .NET, Akka.NET, and ASP.NET development skills
 - **[mohi-devhub/antivibe](https://github.com/mohi-devhub/antivibe)** — Understand and audit AI-written code instead of blindly accepting it
 - **[mxyhi/ok-skills](https://github.com/mxyhi/ok-skills)** — Curated AI coding agent skills and AGENTS.md playbooks for Codex, Claude Code, Cursor, OpenClaw, and other SKILL.md-compatible tools.
@@ -158,7 +166,6 @@
 - **[alpacahq/alpaca-skills](https://github.com/alpacahq/alpaca-skills)** — Agent skills for Alpaca's Trading API and Broker API: drop-in SKILL.md files for AI coding assistants
 - **[tmchow/agent-skills](https://github.com/tmchow/agent-skills)** — Cross-platform AI agent skills (SKILL.md) installable via npx skills / gh skills
 - **[tcsenpai/specification-website-skill](https://github.com/tcsenpai/specification-website-skill)** — Offline agent skill bundling specification.website (128 topics) for Claude Code and other SKILL.md-compatible agents. Spec content CC BY 4.0 by Joost de Valk.
-- **[zebbern/agent-skills-authoring](https://github.com/zebbern/agent-skills-authoring)** — Guides agents through creating, validating, and optimizing Agent Skills (SKILL.md files) from user requests.
 - **[KnoxOps/agent-runbook](https://github.com/KnoxOps/agent-runbook)** — Contract-based multi-agent skill framework for Claude Code & Codex — compile YAML runbooks into SKILL.md with loop, parallel, and checkpoint support.
 - **[moonrunnerkc/skillcheck](https://github.com/moonrunnerkc/skillcheck)** — Cross-agent skill quality gate for SKILL.md files. Validates frontmatter, scores description discoverability, checks file references, enforces three-tier token budgets…
 - **[ElmatadorZ/Genesis-Mind-ClaudeSkill-Agent](https://github.com/ElmatadorZ/Genesis-Mind-ClaudeSkill-Agent)** — Cognitive Operating System for AI Agent (Skill.md) Self-thinking Multi-agent reasoning Meta-cognition Self-evolution
@@ -166,12 +173,10 @@
 
 ### Web & Frontend
 
-- **[vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills)** — Get Vercel's skills for deployment, performance, React, and code review
 - **[greensock/gsap-skills](https://github.com/greensock/gsap-skills)** — Teach an agent to write correct GSAP web animations
 - **[antfu/skills](https://github.com/antfu/skills)** — Get Anthony Fu's skills for Vue, Vite, and Nuxt projects
 - **[vuejs-ai/skills](https://github.com/vuejs-ai/skills)** — Enforce Vue 3 best-practice patterns
 - **[addyosmani/web-quality-skills](https://github.com/addyosmani/web-quality-skills)** — Optimize web performance, accessibility, and SEO via Lighthouse
-- **[dgreenheck/webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill)** — Build WebGPU and Three.js apps with TSL
 - **[initializ/forge](https://github.com/initializ/forge)** — Forge is the open-source runtime for Anthropic's Agent Skills standard — built for the agent that runs next to a service, in your environment, on infrastructure you al…
 
 
@@ -190,8 +195,8 @@
 - **[hamen/material-3-skill](https://github.com/hamen/material-3-skill)** — Apply Material Design 3 components and theming
 - **[dominikmartn/hue](https://github.com/dominikmartn/hue)** — Turn any brand into a complete design system
 - **[meodai/skill.color-expert](https://github.com/meodai/skill.color-expert)** — Make the agent a color-science expert for palettes and color spaces
-- **[arpitg1304/robotics-agent-skills](https://github.com/arpitg1304/robotics-agent-skills)** — Agent skills that make AI coding assistants write production-grade robotics software. ROS1, ROS2, design patterns, SOLID principles, and testing — for Claude Code, Cur…
 - **[kwakseongjae/oh-my-design](https://github.com/kwakseongjae/oh-my-design)** — Install a hand-verified design system for your coding agent
+- **[arpitg1304/robotics-agent-skills](https://github.com/arpitg1304/robotics-agent-skills)** — Agent skills that make AI coding assistants write production-grade robotics software. ROS1, ROS2, design patterns, SOLID principles, and testing — for Claude Code, Cur…
 - **[bergside/design-md-figma](https://github.com/bergside/design-md-figma)** — Agent skill repository.
 - **[Erikote04/Swift-API-Design-Guidelines-Agent-Skill](https://github.com/Erikote04/Swift-API-Design-Guidelines-Agent-Skill)** — Swift API Design Guidelines Agent Skill for AI coding tools that support the Agent Skills open format. It provides practical, structured guidance for API naming, argum…
 
@@ -201,11 +206,8 @@
 - **[nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer)** — Turn terminal output and concepts into HTML diagrams and slides
 - **[Cocoon-AI/architecture-diagram-generator](https://github.com/Cocoon-AI/architecture-diagram-generator)** — Produce dark-themed system architecture diagrams as HTML
 - **[Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill)** — Produce professional draw.io diagrams from descriptions
-- **[coleam00/excalidraw-diagram-skill](https://github.com/coleam00/excalidraw-diagram-skill)** — Generate and render Excalidraw diagrams from plain language
-- **[axtonliu/axton-obsidian-visual-skills](https://github.com/axtonliu/axton-obsidian-visual-skills)** — Create Excalidraw, Mermaid, and Canvas visuals inside Obsidian
-- **[markdown-viewer/skills](https://github.com/markdown-viewer/skills)** — Build diagrams and visuals directly in Markdown
 - **[tt-a1i/archify](https://github.com/tt-a1i/archify)** — Generate architecture and workflow diagrams from plain English
-- **[hashgraph-online/skill-publish](https://github.com/hashgraph-online/skill-publish)** — Agent skill repository.
+- **[axtonliu/axton-obsidian-visual-skills](https://github.com/axtonliu/axton-obsidian-visual-skills)** — Create Excalidraw, Mermaid, and Canvas visuals inside Obsidian
 
 
 ### Docs, Slides & Office
@@ -214,7 +216,6 @@
 - **[zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides)** — Generate polished HTML slide decks (and convert PowerPoint) in the browser
 - **[ningzimu/codex-ppt-skill](https://github.com/ningzimu/codex-ppt-skill)** — Generate image-based PowerPoint decks from documents
 - **[NyxTides/ppt-image-first](https://github.com/NyxTides/ppt-image-first)** — Generate image-first PowerPoint decks iteratively
-- **[tfriedel/claude-office-skills](https://github.com/tfriedel/claude-office-skills)** — Create and edit PPTX, DOCX, XLSX, and PDF documents
 - **[claude-office-skills/skills](https://github.com/claude-office-skills/skills)** — Use 136+ ready skills for everyday office tasks
 
 
@@ -249,7 +250,6 @@
 - **[phuryn/pm-skills](https://github.com/phuryn/pm-skills)** — Run product discovery, strategy, execution, and growth workflows
 - **[kubesphere/kubesphere](https://github.com/kubesphere/kubesphere)** — The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
 - **[automazeio/ccpm](https://github.com/automazeio/ccpm)** — Manage projects spec-first using GitHub issues and git worktrees
-- **[rjs/shaping-skills](https://github.com/rjs/shaping-skills)** — Run Shape Up shaping and breadboarding sessions
 - **[mohitagw15856/pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills)** — Use 167 professional skills spanning 17 professions
 - **[RefoundAI/lenny-skills](https://github.com/RefoundAI/lenny-skills)** — Apply 86 product-management skills from Lenny's Podcast
 - **[didit-protocol/skills](https://github.com/didit-protocol/skills)** — Official Didit Agent Skills — 12 production-ready skills for identity verification, KYC, AML screening, biometric APIs, and session management. Compatible with Cursor,…
@@ -257,7 +257,9 @@
 
 ### Research & Science
 
+- **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** — Agentized web intelligence for browsing and extracting insights from many sources.
 - **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** — Research a topic across Reddit, X, YouTube, and HN ranked by recent engagement
+- **[Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)** — Research-first workflow skills for paper discovery, review, and writing.
 - **[K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)** — Turn an agent into a science assistant across biology, chemistry, and drug discovery
 - **[wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)** — Run autonomous, overnight ML research with cross-model review
 - **[Orchestra-Research/AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs)** — Cover the AI research lifecycle with a 98-skill library
@@ -265,7 +267,6 @@
 - **[google-deepmind/science-skills](https://github.com/google-deepmind/science-skills)** — Speed up genomics, structural biology, and cheminformatics work
 - **[Weizhena/Deep-Research-skills](https://github.com/Weizhena/Deep-Research-skills)** — Run multi-phase research workflows with human checkpoints
 - **[PrathamLearnsToCode/paper2code](https://github.com/PrathamLearnsToCode/paper2code)** — Turn an arXiv paper into a working, citation-anchored implementation
-- **[rohunvora/x-research-skill](https://github.com/rohunvora/x-research-skill)** — Research X/Twitter via a read-only, sourced search skill
 - **[cookiy-ai/user-research-skill](https://github.com/cookiy-ai/user-research-skill)** — Plan, run, and synthesize user research end-to-end
 - **[GPTomics/bioSkills](https://github.com/GPTomics/bioSkills)** — Do bioinformatics with 543 ready skills
 
@@ -285,10 +286,10 @@
 
 ### Browser Automation
 
+- **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** — Browser automation CLI for AI agents.
 - **[SawyerHood/dev-browser](https://github.com/SawyerHood/dev-browser)** — Give the agent a sandboxed browser it can drive with Playwright
 - **[browserbase/skills](https://github.com/browserbase/skills)** — Automate and scrape the web through Browserbase
 - **[lackeyjb/playwright-skill](https://github.com/lackeyjb/playwright-skill)** — Have the agent write and run Playwright browser automation
-- **[apify/agent-skills](https://github.com/apify/agent-skills)** — Scrape and automate the web with Apify skills
 
 
 ### Media: Image & Video
@@ -300,10 +301,7 @@
 - **[0x0funky/agent-sprite-forge](https://github.com/0x0funky/agent-sprite-forge)** — Generate 2D game sprite sheets and tilemap assets
 - **[Ceeon/videocut-skills](https://github.com/Ceeon/videocut-skills)** — Detect and cut problematic segments from spoken videos
 - **[luoluoluo22/jianying-editor-skill](https://github.com/luoluoluo22/jianying-editor-skill)** — Automate JianYing/CapCut for end-to-end video editing
-- **[YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill)** — Get image-prompt recommendations for Gemini Nano Banana Pro
-- **[liangdabiao/Seedance2-Storyboard-Generator](https://github.com/liangdabiao/Seedance2-Storyboard-Generator)** — Generate video storyboards and Seedance prompts
 - **[NarratorAI-Studio/narrator-ai-cli-skill](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill)** — Create movie-style narration videos
-- **[huangserva/skill-prompt-generator](https://github.com/huangserva/skill-prompt-generator)** — Generate high-quality image prompts via expert-domain libraries
 
 
 ### Mobile & Apple
@@ -325,13 +323,13 @@
 ### Self-Improving Skills
 
 - **[uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch)** — Have the agent iterate autonomously toward a measurable goal
-- **[alchaincyf/darwin-skill](https://github.com/alchaincyf/darwin-skill)** — Let a skill evaluate and improve your other skills over time
 - **[BayramAnnakov/claude-reflect](https://github.com/BayramAnnakov/claude-reflect)** — Capture corrections and turn them into reusable skills automatically
 - **[blader/napkin](https://github.com/blader/napkin)** — Give the agent persistent memory of its past mistakes per repo
 
 
 ### Domain-Specific
 
+- **[santifer/career-ops](https://github.com/santifer/career-ops)** — AI-assisted job search with posting discovery, scoring, and application workflows.
 - **[earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)** — Generate CAD, robotics, and hardware designs from natural language
 - **[czlonkowski/n8n-skills](https://github.com/czlonkowski/n8n-skills)** — Build reliable n8n automation workflows
 - **[anysearch-ai/anysearch-skill](https://github.com/anysearch-ai/anysearch-skill)** — Add unified real-time web search to your agent
@@ -341,7 +339,6 @@
 - **[tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills)** — Run educational trading and market-analysis workflows
 - **[romainsimon/paperasse](https://github.com/romainsimon/paperasse)** — Handle French accounting, tax, notary, and audit tasks
 - **[timescale/pg-aiguide](https://github.com/timescale/pg-aiguide)** — Follow PostgreSQL best practices in AI-assisted coding
-- **[zubair-trabzada/ai-legal-claude](https://github.com/zubair-trabzada/ai-legal-claude)** — Review contracts and check legal compliance
 - **[itsmostafa/aws-agent-skills](https://github.com/itsmostafa/aws-agent-skills)** — Get token-efficient AWS engineering knowledge
 - **[aklofas/kicad-happy](https://github.com/aklofas/kicad-happy)** — Design electronics and analyze PCBs in KiCad
 - **[zhinkgit/embeddedskills](https://github.com/zhinkgit/embeddedskills)** — Automate embedded compile-flash-debug toolchains
@@ -352,9 +349,11 @@
 
 ### Learning & Guides
 
-- **[zarazhangrui/codebase-to-course](https://github.com/zarazhangrui/codebase-to-course)** — Turn any codebase into an interactive HTML course
+- **[luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)** — Visual, example-driven Claude Code guide with practical agent templates.
+- **[rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)** — Hands-on AI engineering skill paths for building and shipping agent workflows.
 - **[DrCatHicks/learning-opportunities](https://github.com/DrCatHicks/learning-opportunities)** — Learn while coding via inserted, evidence-based exercises
 - **[shane9coy/Agent-Skill-Architecture-Guide](https://github.com/shane9coy/Agent-Skill-Architecture-Guide)** — A comprehensive reference for building and organizing AI agent skills across Claude Code, KiloCode, OpenClaw, and OpenAI Codex. Covers SKILL.md specifications, folder…
+
 
 ## Contributing
 
