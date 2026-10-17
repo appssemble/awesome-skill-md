@@ -2,7 +2,7 @@
 
 > A curated list of the most-starred, community-loved [Agent Skills](https://www.anthropic.com/news/agent-skills) — repositories built around `SKILL.md` files that teach AI coding agents (Claude Code, Codex, Cursor, Gemini CLI, and others) new capabilities.
 
-This list collects **202 hand-vetted repositories**: individual skills, curated collections, official vendor skills, and the tooling around them.
+This list collects **204 hand-vetted repositories**: individual skills, curated collections, official vendor skills, and the tooling around them.
 
 ## Contents
 
@@ -146,6 +146,8 @@ This list collects **202 hand-vetted repositories**: individual skills, curated 
 - **[vuejs-ai/skills](https://github.com/vuejs-ai/skills)** — Enforce Vue 3 best-practice patterns
 
 ### UI/UX & Design
+- **[0design/ai-native-design-framework](https://github.com/0design/ai-native-design-framework)** — Compose and validate ScreenSpec JSON through a compatible AINDF design-system MCP. [Website](https://oleg.design/ai-native-design-framework).
+- **[0design/unslop-skill](https://github.com/0design/unslop-skill)** — Audit generated UI against pinned quality rules and write fix plans; full canon-based audits require the plugin setup. [Website](https://oleg.design/unslop).
 - **[nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)** — Design skills with UI patterns, components, and layout guidance.
 - **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)** — Stop the agent generating bland layouts and improve its sense of visual design
 - **[pbakaus/impeccable](https://github.com/pbakaus/impeccable)** — Skills for interface design and visual refinement.

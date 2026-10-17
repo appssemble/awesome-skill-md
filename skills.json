@@ -1,7 +1,7 @@
 {
   "title": "Awesome SKILL.md repositories",
-  "count": 202,
-  "totalSkillFiles": 8360,
+  "count": 204,
+  "totalSkillFiles": 8363,
   "skills": [
     {
       "name": "obra/superpowers",
@@ -11190,6 +11190,37 @@
       "skillCount": 3,
       "skillRoot": "skills",
       "skillRootUrl": "https://github.com/shane9coy/Agent-Skill-Architecture-Guide/tree/main/skills"
+    },
+    {
+      "name": "0design/ai-native-design-framework",
+      "owner": "0design",
+      "repo": "ai-native-design-framework",
+      "url": "https://github.com/0design/ai-native-design-framework",
+      "category": "UI/UX & Design",
+      "description": "Compose and validate ScreenSpec JSON through a compatible AINDF design-system MCP.",
+      "branch": "main",
+      "skillFiles": [
+        "packages/aindf-kit/skill/SKILL.md",
+        "plugin/skills/aindf-screen-author/SKILL.md"
+      ],
+      "skillCount": 2,
+      "skillRoot": "",
+      "skillRootUrl": "https://github.com/0design/ai-native-design-framework/tree/main"
+    },
+    {
+      "name": "0design/unslop-skill",
+      "owner": "0design",
+      "repo": "unslop-skill",
+      "url": "https://github.com/0design/unslop-skill",
+      "category": "UI/UX & Design",
+      "description": "Audit generated UI against pinned quality rules and write fix plans; full canon-based audits require the plugin setup.",
+      "branch": "main",
+      "skillFiles": [
+        "skills/audit/SKILL.md"
+      ],
+      "skillCount": 1,
+      "skillRoot": "skills",
+      "skillRootUrl": "https://github.com/0design/unslop-skill/tree/main/skills"
     }
   ]
 }
