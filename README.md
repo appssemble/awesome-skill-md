@@ -2,7 +2,7 @@
 
 > A curated list of the most-starred, community-loved [Agent Skills](https://www.anthropic.com/news/agent-skills) — repositories built around `SKILL.md` files that teach AI coding agents (Claude Code, Codex, Cursor, Gemini CLI, and others) new capabilities.
 
-This list collects **202 hand-vetted repositories**: individual skills, curated collections, official vendor skills, and the tooling around them.
+This list collects **209 hand-vetted repositories**: individual skills, curated collections, official vendor skills, and the tooling around them.
 
 ## Contents
 
@@ -51,6 +51,8 @@ This list collects **202 hand-vetted repositories**: individual skills, curated 
 ### Official & Vendor
 - **[anthropics/skills](https://github.com/anthropics/skills)** — Anthropic skill set for Claude and adjacent tooling
 - **[anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)** — Install vetted plugin and skill bundles from Anthropic's official directory
+- **[vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills)** — Vercel skills for React, Next.js, web design, writing, and deployments.
+- **[anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)** — Anthropic plugins containing skills for research, sales, finance, legal, and other knowledge work.
 - **[google/skills](https://github.com/google/skills)** — Use Google's official skills for Google Cloud and Gemini
 - **[huggingface/skills](https://github.com/huggingface/skills)** — Let agents work the Hugging Face Hub and run ML tasks
 - **[google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)** — Google Labs skills for building interfaces with Stitch.
@@ -60,6 +62,7 @@ This list collects **202 hand-vetted repositories**: individual skills, curated 
 - **[NVIDIA/skills](https://github.com/NVIDIA/skills)** — Official NVIDIA AI Agent Skills collection
 - **[microsoft/skills](https://github.com/microsoft/skills)** — Open source Agent Skills collection and evaluation tooling from Microsoft
 - **[cloudflare/skills](https://github.com/cloudflare/skills)** — Build on Cloudflare Workers with official skills
+- **[flutter/agent-plugins](https://github.com/flutter/agent-plugins)** — Flutter team plugins and skills for Dart and Flutter development.
 - **[expo/skills](https://github.com/expo/skills)** — Build, deploy, and debug Expo apps with official skills
 - **[supabase/agent-skills](https://github.com/supabase/agent-skills)** — Build database and backend features with official Supabase skills
 - **[microsoft/skills-for-fabric](https://github.com/microsoft/skills-for-fabric)** — Build on Microsoft Fabric with official skill bundles
@@ -69,11 +72,14 @@ This list collects **202 hand-vetted repositories**: individual skills, curated 
 - **[MicrosoftDocs/Agent-Skills](https://github.com/MicrosoftDocs/Agent-Skills)** — Curated Agent Skills for Microsoft & Azure for structured, real-time expertise from Microsoft Learn documentation.
 - **[solana-foundation/solana-dev-skill](https://github.com/solana-foundation/solana-dev-skill)** — Build on Solana with the foundation's official skill
 - **[posit-dev/skills](https://github.com/posit-dev/skills)** — Develop R, Shiny, and Quarto projects with Posit's skills
+- **[letta-ai/skills](https://github.com/letta-ai/skills)** — Letta skills for configuring and developing agents with memory.
 - **[base/skills](https://github.com/base/skills)** — Coinbase Base skills for wallet integrations and onchain application development.
 - **[didit-protocol/skills](https://github.com/didit-protocol/skills)** — Integrate Didit identity verification, KYC, AML, and biometric APIs.
+- **[aerospike/agent-skills](https://github.com/aerospike/agent-skills)** — Aerospike skills for database development and operations.
 
 ### Curated Lists
 - **[tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills)** — Collection of validated coding and workflow skills.
+- **[davidondrej/skills](https://github.com/davidondrej/skills)** — Collection of Agent Skills for coding, research, and skill authoring.
 - **[bergside/awesome-design-skills](https://github.com/bergside/awesome-design-skills)** — Find design-focused SKILL.md and DESIGN.md files
 - **[rohitg00/awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit)** — Browse a big toolkit of Claude Code agents, plugins, and skills
 - **[gamedev-skills/awesome-gamedev-agent-skills](https://github.com/gamedev-skills/awesome-gamedev-agent-skills)** — Open catalog of game-development focused agent skills
@@ -81,13 +87,14 @@ This list collects **202 hand-vetted repositories**: individual skills, curated 
 - **[Gentleman-Programming/Gentleman-Skills](https://github.com/Gentleman-Programming/Gentleman-Skills)** — Pull community best-practice coding skills for frameworks
 - **[JackyST0/awesome-agent-skills](https://github.com/JackyST0/awesome-agent-skills)** — Find Agent Skills that work across Cursor, Claude Code, and Copilot
 - **[michaelboeding/skills](https://github.com/michaelboeding/skills)** — Personal collection of agent skills using the open SKILL.md standard. Works with Claude (claude.ai, Claude Code, API), Cursor, and other AI assistants.
+- **[gohypergiant/agent-skills](https://github.com/gohypergiant/agent-skills)** — Agent Skills for software design and development workflows.
 - **[crystian/skills](https://github.com/crystian/skills)** — Open collection of AI agent skills — reusable, framework-agnostic SKILL.md packages for Claude Code and beyond. Install with npx skills add crystian/skills
 
 ### Tooling & Management
 - **[Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)** — AI coding assistant skill ecosystem that turns code and documents into a queryable knowledge graph.
 - **[wshobson/agents](https://github.com/wshobson/agents)** — Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
-- **[virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)** — Turn a technical book into a study-ready agent skill
 - **[vercel-labs/skills](https://github.com/vercel-labs/skills)** — Skill tooling and ecosystem for the open agent skills catalog
+- **[virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)** — Turn a technical book into a study-ready agent skill
 - **[titanwings/distilly](https://github.com/titanwings/distilly)** — Skill for turning source material into reusable Agent Skills.
 - **[microsoft/SkillOpt](https://github.com/microsoft/SkillOpt)** — Train and refine reusable skill documents automatically
 - **[xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager)** — Organize and sync your agent skills from a desktop app
@@ -100,8 +107,8 @@ This list collects **202 hand-vetted repositories**: individual skills, curated 
 - **[agent-sh/agnix](https://github.com/agent-sh/agnix)** — Open-source platform utilities and skill-like modules for AI agents
 - **[gotalab/skillport](https://github.com/gotalab/skillport)** — Bring skills to any agent via CLI or MCP and manage them once
 - **[Narwhal-Lab/MagicSkills](https://github.com/Narwhal-Lab/MagicSkills)** — Stop copying skills between agents — manage SKILL.md folders locally
-- **[Evol-ai/SkillCompass](https://github.com/Evol-ai/SkillCompass)** — Evaluate skill quality and fix the weakest ones
 - **[skillmds/skillmd](https://github.com/skillmds/skillmd)** — CLI and library for finding, installing, linting, and scanning Agent Skills.
+- **[Evol-ai/SkillCompass](https://github.com/Evol-ai/SkillCompass)** — Evaluate skill quality and fix the weakest ones
 - **[shinpr/sub-agents-skills](https://github.com/shinpr/sub-agents-skills)** — Cross-LLM sub-agent orchestration for multiple AI coding agents via Agent Skills
 - **[moonrunnerkc/skillcheck](https://github.com/moonrunnerkc/skillcheck)** — Validate SKILL.md metadata, references, and release policies.
 - **[joeynyc/skillscore](https://github.com/joeynyc/skillscore)** — CLI tool that evaluates AI agent skills and produces quality scores. Works with any SKILL.md-based skill from skills.sh, ClawHub, GitHub, or local directories.
@@ -180,8 +187,8 @@ This list collects **202 hand-vetted repositories**: individual skills, curated 
 - **[claude-office-skills/skills](https://github.com/claude-office-skills/skills)** — Use 136+ ready skills for everyday office tasks
 
 ### Writing & Anti-Slop
-- **[ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)** — Skill for concise responses and task guidance for readers with ADHD.
 - **[blader/humanizer](https://github.com/blader/humanizer)** — Strip tell-tale AI patterns out of generated text so it reads naturally
+- **[ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)** — Skill for concise responses and task guidance for readers with ADHD.
 - **[op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh)** — Remove AI writing traces from Chinese text
 - **[worldwonderer/oh-story-claudecode](https://github.com/worldwonderer/oh-story-claudecode)** — Write and analyze Chinese web novels end-to-end
 - **[conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing)** — Rewrite text to remove AI writing patterns (portable across agents)
@@ -243,8 +250,8 @@ This list collects **202 hand-vetted repositories**: individual skills, curated 
 - **[AvdLee/Swift-Concurrency-Agent-Skill](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill)** — Get Swift Concurrency guidance and Swift 6 migration help
 - **[callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills)** — Build React Native apps with agent-optimized skills
 - **[conorluddy/ios-simulator-skill](https://github.com/conorluddy/ios-simulator-skill)** — Automate iOS builds, tests, and simulator interaction
-- **[adamlyttleapps/claude-skill-app-onboarding-questionnaire](https://github.com/adamlyttleapps/claude-skill-app-onboarding-questionnaire)** — Design high-converting app onboarding flows from your codebase
 - **[CharlesWiltgen/Axiom](https://github.com/CharlesWiltgen/Axiom)** — Develop across Apple platforms with diagnostics-backed skills
+- **[adamlyttleapps/claude-skill-app-onboarding-questionnaire](https://github.com/adamlyttleapps/claude-skill-app-onboarding-questionnaire)** — Design high-converting app onboarding flows from your codebase
 - **[twostraws/Swift-Concurrency-Agent-Skill](https://github.com/twostraws/Swift-Concurrency-Agent-Skill)** — Write correct Swift concurrency code
 - **[twostraws/Swift-Testing-Agent-Skill](https://github.com/twostraws/Swift-Testing-Agent-Skill)** — Write better Swift Testing code
 - **[twostraws/SwiftData-Agent-Skill](https://github.com/twostraws/SwiftData-Agent-Skill)** — Write better SwiftData code
