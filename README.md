@@ -2,7 +2,7 @@
 
 > A curated list of the most-starred, community-loved [Agent Skills](https://www.anthropic.com/news/agent-skills) — repositories built around `SKILL.md` files that teach AI coding agents (Claude Code, Codex, Cursor, Gemini CLI, and others) new capabilities.
 
-This list collects **209 hand-vetted repositories**: individual skills, curated collections, official vendor skills, and the tooling around them.
+This list collects **256 hand-vetted repositories**: individual skills, curated collections, official vendor skills, and the tooling around them.
 
 ## Contents
 
@@ -51,27 +51,32 @@ This list collects **209 hand-vetted repositories**: individual skills, curated 
 ### Official & Vendor
 - **[anthropics/skills](https://github.com/anthropics/skills)** — Anthropic skill set for Claude and adjacent tooling
 - **[anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)** — Install vetted plugin and skill bundles from Anthropic's official directory
-- **[vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills)** — Vercel skills for React, Next.js, web design, writing, and deployments.
 - **[anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)** — Anthropic plugins containing skills for research, sales, finance, legal, and other knowledge work.
+- **[vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills)** — Vercel skills for React, Next.js, web design, writing, and deployments.
 - **[google/skills](https://github.com/google/skills)** — Use Google's official skills for Google Cloud and Gemini
 - **[huggingface/skills](https://github.com/huggingface/skills)** — Let agents work the Hugging Face Hub and run ML tasks
+- **[android/skills](https://github.com/android/skills)** — Android team skills for Android application development.
 - **[google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)** — Google Labs skills for building interfaces with Stitch.
 - **[OpenSenseNova/SenseNova-Skills](https://github.com/OpenSenseNova/SenseNova-Skills)** — Automate office tasks — images, PPT, and data — with SenseNova skills
 - **[dotnet/skills](https://github.com/dotnet/skills)** — .NET team skills for C# and .NET development.
+- **[BuilderIO/skills](https://github.com/BuilderIO/skills)** — Builder.io skills for its development and design workflows.
 - **[google-gemini/gemini-skills](https://github.com/google-gemini/gemini-skills)** — Build against the Gemini API with Google's official skills
 - **[NVIDIA/skills](https://github.com/NVIDIA/skills)** — Official NVIDIA AI Agent Skills collection
-- **[microsoft/skills](https://github.com/microsoft/skills)** — Open source Agent Skills collection and evaluation tooling from Microsoft
-- **[cloudflare/skills](https://github.com/cloudflare/skills)** — Build on Cloudflare Workers with official skills
-- **[flutter/agent-plugins](https://github.com/flutter/agent-plugins)** — Flutter team plugins and skills for Dart and Flutter development.
 - **[expo/skills](https://github.com/expo/skills)** — Build, deploy, and debug Expo apps with official skills
+- **[cloudflare/skills](https://github.com/cloudflare/skills)** — Build on Cloudflare Workers with official skills
+- **[microsoft/skills](https://github.com/microsoft/skills)** — Open source Agent Skills collection and evaluation tooling from Microsoft
+- **[flutter/agent-plugins](https://github.com/flutter/agent-plugins)** — Flutter team plugins and skills for Dart and Flutter development.
 - **[supabase/agent-skills](https://github.com/supabase/agent-skills)** — Build database and backend features with official Supabase skills
+- **[EpicGames/unreal-engine-skills-for-claude-code-plugin](https://github.com/EpicGames/unreal-engine-skills-for-claude-code-plugin)** — Epic Games skills for Unreal Engine development in Claude Code.
 - **[microsoft/skills-for-fabric](https://github.com/microsoft/skills-for-fabric)** — Build on Microsoft Fabric with official skill bundles
 - **[getsentry/skills](https://github.com/getsentry/skills)** — Sentry team skills for code review, issue triage, and development workflows.
 - **[microsoft/power-platform-skills](https://github.com/microsoft/power-platform-skills)** — Build Power Platform Pages, Apps, and Canvas
 - **[hashicorp/agent-skills](https://github.com/hashicorp/agent-skills)** — Work with Terraform, Packer, and HCL using HashiCorp's skills
 - **[MicrosoftDocs/Agent-Skills](https://github.com/MicrosoftDocs/Agent-Skills)** — Curated Agent Skills for Microsoft & Azure for structured, real-time expertise from Microsoft Learn documentation.
+- **[elastic/agent-skills](https://github.com/elastic/agent-skills)** — Elastic skills for development with Elastic products.
 - **[solana-foundation/solana-dev-skill](https://github.com/solana-foundation/solana-dev-skill)** — Build on Solana with the foundation's official skill
 - **[posit-dev/skills](https://github.com/posit-dev/skills)** — Develop R, Shiny, and Quarto projects with Posit's skills
+- **[LambdaTest/agent-skills](https://github.com/LambdaTest/agent-skills)** — LambdaTest skills for testing and development workflows.
 - **[letta-ai/skills](https://github.com/letta-ai/skills)** — Letta skills for configuring and developing agents with memory.
 - **[base/skills](https://github.com/base/skills)** — Coinbase Base skills for wallet integrations and onchain application development.
 - **[didit-protocol/skills](https://github.com/didit-protocol/skills)** — Integrate Didit identity verification, KYC, AML, and biometric APIs.
@@ -79,13 +84,17 @@ This list collects **209 hand-vetted repositories**: individual skills, curated 
 
 ### Curated Lists
 - **[tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills)** — Collection of validated coding and workflow skills.
+- **[gamedev-skills/awesome-gamedev-agent-skills](https://github.com/gamedev-skills/awesome-gamedev-agent-skills)** — Open catalog of game-development focused agent skills
 - **[davidondrej/skills](https://github.com/davidondrej/skills)** — Collection of Agent Skills for coding, research, and skill authoring.
 - **[bergside/awesome-design-skills](https://github.com/bergside/awesome-design-skills)** — Find design-focused SKILL.md and DESIGN.md files
+- **[xstongxue/best-skills](https://github.com/xstongxue/best-skills)** — Collection of general-purpose Agent Skills.
 - **[rohitg00/awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit)** — Browse a big toolkit of Claude Code agents, plugins, and skills
-- **[gamedev-skills/awesome-gamedev-agent-skills](https://github.com/gamedev-skills/awesome-gamedev-agent-skills)** — Open catalog of game-development focused agent skills
 - **[daymade/claude-code-skills](https://github.com/daymade/claude-code-skills)** — Browse a marketplace of 64+ production skills with a skill-creator
-- **[Gentleman-Programming/Gentleman-Skills](https://github.com/Gentleman-Programming/Gentleman-Skills)** — Pull community best-practice coding skills for frameworks
+- **[laolaoshiren/claude-code-skills-zh](https://github.com/laolaoshiren/claude-code-skills-zh)** — Chinese-language collection of Claude Code skills and agents.
+- **[staruhub/ClaudeSkills](https://github.com/staruhub/ClaudeSkills)** — Skills for research, product decisions, presentations, and audits.
 - **[JackyST0/awesome-agent-skills](https://github.com/JackyST0/awesome-agent-skills)** — Find Agent Skills that work across Cursor, Claude Code, and Copilot
+- **[Gentleman-Programming/Gentleman-Skills](https://github.com/Gentleman-Programming/Gentleman-Skills)** — Pull community best-practice coding skills for frameworks
+- **[magnus919/agent-skills](https://github.com/magnus919/agent-skills)** — Collection of skills for research, writing, and software workflows.
 - **[michaelboeding/skills](https://github.com/michaelboeding/skills)** — Personal collection of agent skills using the open SKILL.md standard. Works with Claude (claude.ai, Claude Code, API), Cursor, and other AI assistants.
 - **[gohypergiant/agent-skills](https://github.com/gohypergiant/agent-skills)** — Agent Skills for software design and development workflows.
 - **[crystian/skills](https://github.com/crystian/skills)** — Open collection of AI agent skills — reusable, framework-agnostic SKILL.md packages for Claude Code and beyond. Install with npx skills add crystian/skills
@@ -98,17 +107,20 @@ This list collects **209 hand-vetted repositories**: individual skills, curated 
 - **[titanwings/distilly](https://github.com/titanwings/distilly)** — Skill for turning source material into reusable Agent Skills.
 - **[microsoft/SkillOpt](https://github.com/microsoft/SkillOpt)** — Train and refine reusable skill documents automatically
 - **[xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager)** — Organize and sync your agent skills from a desktop app
+- **[foryourhealth111-pixel/Vibe-Skills](https://github.com/foryourhealth111-pixel/Vibe-Skills)** — Skills and tools for routing and orchestrating Agent Skills across coding agents.
 - **[runkids/skillshare](https://github.com/runkids/skillshare)** — Sync skills and agents across your AI tools with one command
 - **[badlogic/pi-skills](https://github.com/badlogic/pi-skills)** — Add CLI skills for search, browser, email, and transcription
 - **[FrancyJGLisboa/agent-skill-creator](https://github.com/FrancyJGLisboa/agent-skill-creator)** — Turn any workflow into reusable, cross-platform skills
+- **[FrancyJGLisboa/agent-skills-platform](https://github.com/FrancyJGLisboa/agent-skills-platform)** — Tools for creating, testing, publishing, and managing Agent Skills.
 - **[feiskyer/claude-code-settings](https://github.com/feiskyer/claude-code-settings)** — Start from a ready Claude Code setup bundling skills, agents, commands
 - **[rohitg00/skillkit](https://github.com/rohitg00/skillkit)** — Install, translate, and share portable skills across agents
 - **[MoizIbnYousaf/ai-agent-skills](https://github.com/MoizIbnYousaf/ai-agent-skills)** — Universal AI-agent skill installer and package manager for multiple runtimes.
+- **[darkrishabh/agent-skills-eval](https://github.com/darkrishabh/agent-skills-eval)** — Test runner for Agent Skills.
 - **[agent-sh/agnix](https://github.com/agent-sh/agnix)** — Open-source platform utilities and skill-like modules for AI agents
 - **[gotalab/skillport](https://github.com/gotalab/skillport)** — Bring skills to any agent via CLI or MCP and manage them once
 - **[Narwhal-Lab/MagicSkills](https://github.com/Narwhal-Lab/MagicSkills)** — Stop copying skills between agents — manage SKILL.md folders locally
-- **[skillmds/skillmd](https://github.com/skillmds/skillmd)** — CLI and library for finding, installing, linting, and scanning Agent Skills.
 - **[Evol-ai/SkillCompass](https://github.com/Evol-ai/SkillCompass)** — Evaluate skill quality and fix the weakest ones
+- **[skillmds/skillmd](https://github.com/skillmds/skillmd)** — CLI and library for finding, installing, linting, and scanning Agent Skills.
 - **[shinpr/sub-agents-skills](https://github.com/shinpr/sub-agents-skills)** — Cross-LLM sub-agent orchestration for multiple AI coding agents via Agent Skills
 - **[moonrunnerkc/skillcheck](https://github.com/moonrunnerkc/skillcheck)** — Validate SKILL.md metadata, references, and release policies.
 - **[joeynyc/skillscore](https://github.com/joeynyc/skillscore)** — CLI tool that evaluates AI agent skills and produces quality scores. Works with any SKILL.md-based skill from skills.sh, ClawHub, GitHub, or local directories.
@@ -116,8 +128,10 @@ This list collects **209 hand-vetted repositories**: individual skills, curated 
 ### Security
 - **[cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)** — Cloudflare skill for structured security audits of code and configuration.
 - **[NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)** — Scanner for security risks in Agent Skill packages.
+- **[trailofbits/skills](https://github.com/trailofbits/skills)** — Security audit and secure development skills from Trail of Bits.
 - **[utkusen/sast-skills](https://github.com/utkusen/sast-skills)** — Turn your AI coder into a SAST vulnerability scanner
 - **[BagelHole/DevOps-Security-Agent-Skills](https://github.com/BagelHole/DevOps-Security-Agent-Skills)** — Agent-ready DevOps and security knowledge base with skills for infrastructure, platform operations, hardening, and compliance.
+- **[prompt-security/clawsec](https://github.com/prompt-security/clawsec)** — Defensive skills for agent configuration audits and skill integrity checks.
 - **[Sushegaad/Claude-Skills-Governance-Risk-and-Compliance](https://github.com/Sushegaad/Claude-Skills-Governance-Risk-and-Compliance)** — Governance, risk, and compliance skills for ISO, SOC, GDPR, HIPAA, and related operational requirements.
 - **[rsoffer/linus-level-skill](https://github.com/rsoffer/linus-level-skill)** — A SKILL.md agent skill that gives Codex, Claude, and other coding agents a 1.0-10.0 Linus Level dial for autonomy, strictness, security, questions, and engineering rigor.
 - **[theinfosecguy/razin](https://github.com/theinfosecguy/razin)** — Static analysis scanner for SKILL.md LLM agent skills with deterministic security findings.
@@ -129,7 +143,10 @@ This list collects **209 hand-vetted repositories**: individual skills, curated 
 - **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** — Add production-grade engineering workflows spanning the whole software lifecycle
 - **[alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills)** — Large multilingual Claude and Codex skill collection spanning engineering, operations, product, research, and business workflows.
 - **[Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills)** — Equip an agent for full-stack work with 66 dev skills and workflows
+- **[humanlayer/skills](https://github.com/humanlayer/skills)** — Skills for codebase research, implementation, and review workflows.
+- **[vinvcn/mattpocock-skills-zh-CN](https://github.com/vinvcn/mattpocock-skills-zh-CN)** — Chinese localization of Matt Pocock coding skills.
 - **[samber/cc-skills-golang](https://github.com/samber/cc-skills-golang)** — Get curated Go development skills
+- **[ciembor/agent-rules-books](https://github.com/ciembor/agent-rules-books)** — Coding skills derived from software design and architecture books.
 - **[softaworks/agent-toolkit](https://github.com/softaworks/agent-toolkit)** — Use packaged skills for dev, docs, and planning workflows
 - **[awesome-skills/code-review-skill](https://github.com/awesome-skills/code-review-skill)** — Run structured code reviews across 20+ languages
 - **[glittercowboy/taches-cc-resources](https://github.com/glittercowboy/taches-cc-resources)** — Grab a resource pack of skills, commands, and subagents
@@ -137,11 +154,12 @@ This list collects **209 hand-vetted repositories**: individual skills, curated 
 - **[Aaronontheweb/dotnet-skills](https://github.com/Aaronontheweb/dotnet-skills)** — Get .NET, Akka.NET, and ASP.NET development skills
 - **[mohi-devhub/antivibe](https://github.com/mohi-devhub/antivibe)** — Understand and audit AI-written code instead of blindly accepting it
 - **[Kotlin/kotlin-agent-skills](https://github.com/Kotlin/kotlin-agent-skills)** — A collection of AI agent skills useful for projects using Kotlin.
+- **[levnikolaevich/claude-code-skills](https://github.com/levnikolaevich/claude-code-skills)** — Skills for product discovery, architecture, implementation, and reviews.
 - **[mxyhi/ok-skills](https://github.com/mxyhi/ok-skills)** — Curated AI coding agent skills and AGENTS.md playbooks for Codex, Claude Code, Cursor, OpenClaw, and other SKILL.md-compatible tools.
 - **[waynesutton/convexskills](https://github.com/waynesutton/convexskills)** — Build production apps on Convex
 - **[machina-sports/sports-skills](https://github.com/machina-sports/sports-skills)** — Open-source agent skills for live sports data and prediction markets. Football, F1, Kalshi, Polymarket. Zero API keys. SKILL.md format.
-- **[alpacahq/alpaca-skills](https://github.com/alpacahq/alpaca-skills)** — Agent skills for Alpaca's Trading API and Broker API: drop-in SKILL.md files for AI coding assistants
 - **[veniceai/skills](https://github.com/veniceai/skills)** — Agent Skills for the Venice.ai API. One folder per surface area, each with a SKILL.md for agent runtimes (Cursor, Claude, Codex, etc.).
+- **[alpacahq/alpaca-skills](https://github.com/alpacahq/alpaca-skills)** — Agent skills for Alpaca's Trading API and Broker API: drop-in SKILL.md files for AI coding assistants
 - **[tmchow/agent-skills](https://github.com/tmchow/agent-skills)** — Cross-platform AI agent skills (SKILL.md) installable via npx skills / gh skills
 - **[ElmatadorZ/Genesis-Mind-ClaudeSkill-Agent](https://github.com/ElmatadorZ/Genesis-Mind-ClaudeSkill-Agent)** — Cognitive Operating System for AI Agent (Skill.md) Self-thinking Multi-agent reasoning Meta-cognition Self-evolution
 - **[KnoxOps/agent-runbook](https://github.com/KnoxOps/agent-runbook)** — Contract-based multi-agent skill framework for Claude Code & Codex — compile YAML runbooks into SKILL.md with loop, parallel, and checkpoint support.
@@ -149,24 +167,32 @@ This list collects **209 hand-vetted repositories**: individual skills, curated 
 ### Web & Frontend
 - **[greensock/gsap-skills](https://github.com/greensock/gsap-skills)** — Teach an agent to write correct GSAP web animations
 - **[antfu/skills](https://github.com/antfu/skills)** — Get Anthony Fu's skills for Vue, Vite, and Nuxt projects
-- **[addyosmani/web-quality-skills](https://github.com/addyosmani/web-quality-skills)** — Optimize web performance, accessibility, and SEO via Lighthouse
+- **[CloudAI-X/threejs-skills](https://github.com/CloudAI-X/threejs-skills)** — Skills for building 3D web experiences with Three.js.
 - **[vuejs-ai/skills](https://github.com/vuejs-ai/skills)** — Enforce Vue 3 best-practice patterns
+- **[addyosmani/web-quality-skills](https://github.com/addyosmani/web-quality-skills)** — Optimize web performance, accessibility, and SEO via Lighthouse
+- **[jezweb/claude-skills](https://github.com/jezweb/claude-skills)** — Skills for Cloudflare, React, Tailwind, and full-stack web development.
+- **[rampstackco/claude-skills](https://github.com/rampstackco/claude-skills)** — Skills for website design, content, SEO, development, and operations.
 
 ### UI/UX & Design
 - **[nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)** — Design skills with UI patterns, components, and layout guidance.
 - **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)** — Stop the agent generating bland layouts and improve its sense of visual design
 - **[pbakaus/impeccable](https://github.com/pbakaus/impeccable)** — Skills for interface design and visual refinement.
+- **[emilkowalski/skills](https://github.com/emilkowalski/skills)** — Design and engineering skills for web interfaces and interaction.
 - **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)** — Avoid generic AI-looking sites and generate varied website designs
 - **[alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)** — Generate high-fidelity prototypes, decks, and animations from a prompt
+- **[ibelick/ui-skills](https://github.com/ibelick/ui-skills)** — Skills for building and reviewing user interfaces.
 - **[jakubkrehel/skills](https://github.com/jakubkrehel/skills)** — Skills for building web interfaces.
+- **[elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills)** — Skills for AI-assisted visual and interface design.
 - **[MengTo/Skills](https://github.com/MengTo/Skills)** — Design and development skills for coding agents.
 - **[JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design)** — Run Claude Design locally to produce HTML mockups
 - **[Owl-Listener/designer-skills](https://github.com/Owl-Listener/designer-skills)** — Pull a collection of design skills and plugins
+- **[plugin87/ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills)** — Skills for design tokens, components, accessibility, and interface reviews.
 - **[dominikmartn/nothing-design-skill](https://github.com/dominikmartn/nothing-design-skill)** — Generate UIs in Nothing's monochrome design language
 - **[yetone/native-feel-skill](https://github.com/yetone/native-feel-skill)** — Design cross-platform desktop apps that feel native
 - **[hamen/material-3-skill](https://github.com/hamen/material-3-skill)** — Apply Material Design 3 components and theming
 - **[dominikmartn/hue](https://github.com/dominikmartn/hue)** — Turn any brand into a complete design system
 - **[Railly/tinte](https://github.com/Railly/tinte)** — A modern SKILL.md collection for design and agent workflows
+- **[kwakseongjae/oh-my-design](https://github.com/kwakseongjae/oh-my-design)** — Design reference skills and installation tooling for coding agents.
 - **[tigerless-labs/design-harness](https://github.com/tigerless-labs/design-harness)** — A design-specific harness for AI coding agents
 - **[bergside/design-md-figma](https://github.com/bergside/design-md-figma)** — Extract Figma styles into DESIGN.md and SKILL.md guidance.
 
@@ -177,6 +203,8 @@ This list collects **209 hand-vetted repositories**: individual skills, curated 
 - **[Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill)** — Produce professional draw.io diagrams from descriptions
 - **[Cocoon-AI/architecture-diagram-generator](https://github.com/Cocoon-AI/architecture-diagram-generator)** — Produce dark-themed system architecture diagrams as HTML
 - **[axtonliu/axton-obsidian-visual-skills](https://github.com/axtonliu/axton-obsidian-visual-skills)** — Create Excalidraw, Mermaid, and Canvas visuals inside Obsidian
+- **[markdown-viewer/skills](https://github.com/markdown-viewer/skills)** — Skill for diagrams and visualizations in Markdown.
+- **[ythx-101/live-panel-skill](https://github.com/ythx-101/live-panel-skill)** — Skill for making animated architecture diagrams from JSON.
 
 ### Docs/Slides & Office
 - **[zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides)** — Generate polished HTML slide decks (and convert PowerPoint) in the browser
@@ -184,6 +212,7 @@ This list collects **209 hand-vetted repositories**: individual skills, curated 
 - **[chuspeeism/dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill)** — Skill for creating browser-editable presentation slides.
 - **[ningzimu/codex-ppt-skill](https://github.com/ningzimu/codex-ppt-skill)** — Generate image-based PowerPoint decks from documents
 - **[NyxTides/ppt-image-first](https://github.com/NyxTides/ppt-image-first)** — Generate image-first PowerPoint decks iteratively
+- **[alchaincyf/huashu-md-html](https://github.com/alchaincyf/huashu-md-html)** — Skill for converting between Markdown and HTML formats.
 - **[claude-office-skills/skills](https://github.com/claude-office-skills/skills)** — Use 136+ ready skills for everyday office tasks
 
 ### Writing & Anti-Slop
@@ -191,6 +220,7 @@ This list collects **209 hand-vetted repositories**: individual skills, curated 
 - **[ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)** — Skill for concise responses and task guidance for readers with ADHD.
 - **[op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh)** — Remove AI writing traces from Chinese text
 - **[worldwonderer/oh-story-claudecode](https://github.com/worldwonderer/oh-story-claudecode)** — Write and analyze Chinese web novels end-to-end
+- **[lijigang/ljg-skills](https://github.com/lijigang/ljg-skills)** — Chinese-language skills for writing and structured thinking.
 - **[conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing)** — Rewrite text to remove AI writing patterns (portable across agents)
 - **[oaker-io/wewrite](https://github.com/oaker-io/wewrite)** — Automate WeChat article research, writing, and formatting
 - **[AgriciDaniel/claude-blog](https://github.com/AgriciDaniel/claude-blog)** — Write, optimize, and audit blog content end-to-end
@@ -201,7 +231,11 @@ This list collects **209 hand-vetted repositories**: individual skills, curated 
 - **[zubair-trabzada/geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude)** — Optimize sites to rank in AI-powered search engines (GEO)
 - **[AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads)** — Audit paid-ad accounts across eight ad platforms
 - **[ParthJadhav/app-store-screenshots](https://github.com/ParthJadhav/app-store-screenshots)** — Generate App Store marketing screenshots end-to-end
+- **[sergebulaev/linkedin-skills](https://github.com/sergebulaev/linkedin-skills)** — Skills for drafting and reviewing LinkedIn posts and engagement.
+- **[charlie947/social-media-skills](https://github.com/charlie947/social-media-skills)** — Skills for social media content and publishing workflows.
 - **[nowork-studio/NotFair](https://github.com/nowork-studio/NotFair)** — Manage SEO, Google Ads, and Meta Ads campaigns
+- **[ericosiu/ai-marketing-skills](https://github.com/ericosiu/ai-marketing-skills)** — Skills for growth experiments, SEO, content, and marketing operations.
+- **[aaron-he-zhu/aaron-marketing-skills](https://github.com/aaron-he-zhu/aaron-marketing-skills)** — Skills for marketing strategy, SEO, social, email, and launches.
 - **[zubair-trabzada/ai-marketing-claude](https://github.com/zubair-trabzada/ai-marketing-claude)** — Run connected marketing audits, copywriting, and client deliverables
 - **[Eronred/aso-skills](https://github.com/Eronred/aso-skills)** — Run App Store Optimization and app-marketing tasks
 - **[onvoyage-ai/gtm-engineer-skills](https://github.com/onvoyage-ai/gtm-engineer-skills)** — Improve AI-search discoverability and content ranking
@@ -212,17 +246,22 @@ This list collects **209 hand-vetted repositories**: individual skills, curated 
 - **[phuryn/pm-skills](https://github.com/phuryn/pm-skills)** — Run product discovery, strategy, execution, and growth workflows
 - **[automazeio/ccpm](https://github.com/automazeio/ccpm)** — Manage projects spec-first using GitHub issues and git worktrees
 - **[RefoundAI/lenny-skills](https://github.com/RefoundAI/lenny-skills)** — Apply 86 product-management skills from Lenny's Podcast
+- **[emotixco/claude-skills-founder](https://github.com/emotixco/claude-skills-founder)** — Skills for product briefs, competitor research, pricing, and go-to-market planning.
 
 ### Research & Science
 - **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** — Research a topic across Reddit, X, YouTube, and HN ranked by recent engagement
 - **[K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)** — Turn an agent into a science assistant across biology, chemistry, and drug discovery
+- **[Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills)** — Skills for academic literature search, scientific figures, citations, and research writing.
 - **[wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)** — Run autonomous, overnight ML research with cross-model review
 - **[Orchestra-Research/AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs)** — Cover the AI research lifecycle with a 98-skill library
 - **[Master-cai/Research-Paper-Writing-Skills](https://github.com/Master-cai/Research-Paper-Writing-Skills)** — Draft and refine ML/CV/NLP research papers
+- **[ScrapeCreators/social-media-research-skills](https://github.com/ScrapeCreators/social-media-research-skills)** — Skills for researching social media posts, comments, ads, and trends.
 - **[google-deepmind/science-skills](https://github.com/google-deepmind/science-skills)** — Speed up genomics, structural biology, and cheminformatics work
+- **[mikubaka88/CCFA-Skills](https://github.com/mikubaka88/CCFA-Skills)** — Skills for developing research narratives for computer science papers.
 - **[Weizhena/Deep-Research-skills](https://github.com/Weizhena/Deep-Research-skills)** — Run multi-phase research workflows with human checkpoints
 - **[cookiy-ai/user-research-skill](https://github.com/cookiy-ai/user-research-skill)** — Plan, run, and synthesize user research end-to-end
 - **[PrathamLearnsToCode/paper2code](https://github.com/PrathamLearnsToCode/paper2code)** — Turn an arXiv paper into a working, citation-anchored implementation
+- **[jaechang-hits/SciAgent-Skills](https://github.com/jaechang-hits/SciAgent-Skills)** — Skills for bioinformatics, genomics, proteomics, and drug discovery.
 
 ### Knowledge Management
 - **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** — Let the agent operate an Obsidian vault — markdown, canvas, and notes
@@ -239,14 +278,17 @@ This list collects **209 hand-vetted repositories**: individual skills, curated 
 - **[JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills)** — Produce images, infographics, slides, and social posts for content creation
 - **[ConardLi/garden-skills](https://github.com/ConardLi/garden-skills)** — Create presentations, web designs, images, and articles
 - **[wuyoscar/GPT-Image2-Skill](https://github.com/wuyoscar/GPT-Image2-Skill)** — Generate images with a curated GPT-image prompt library and CLI
+- **[eternityspring/shuohao-skills](https://github.com/eternityspring/shuohao-skills)** — Skills for short-drama scripts, characters, scenes, and storyboards.
 - **[0x0funky/agent-sprite-forge](https://github.com/0x0funky/agent-sprite-forge)** — Generate 2D game sprite sheets and tilemap assets
-- **[luoluoluo22/jianying-editor-skill](https://github.com/luoluoluo22/jianying-editor-skill)** — Automate JianYing/CapCut for end-to-end video editing
+- **[zenstory-ai/drama-skills](https://github.com/zenstory-ai/drama-skills)** — Skills for short-drama scripts, storyboards, and visual assets.
+- **[Agentchengfeng/chengfeng-videocut-skills](https://github.com/Agentchengfeng/chengfeng-videocut-skills)** — Skills for video editing workflows with Claude Code.
 - **[NarratorAI-Studio/narrator-ai-cli-skill](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill)** — Create movie-style narration videos
 - **[SamurAIGPT/Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills)** — Generate multimodal media (image, audio, video) with one toolkit
 
 ### Mobile & Apple
 - **[twostraws/SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill)** — Get Paul Hudson's guidance for writing modern SwiftUI
 - **[AvdLee/SwiftUI-Agent-Skill](https://github.com/AvdLee/SwiftUI-Agent-Skill)** — Apply SwiftUI best practices with Instruments trace analysis
+- **[Appllama/appllama-skills](https://github.com/Appllama/appllama-skills)** — Skills for designing mobile application screens.
 - **[AvdLee/Swift-Concurrency-Agent-Skill](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill)** — Get Swift Concurrency guidance and Swift 6 migration help
 - **[callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills)** — Build React Native apps with agent-optimized skills
 - **[conorluddy/ios-simulator-skill](https://github.com/conorluddy/ios-simulator-skill)** — Automate iOS builds, tests, and simulator interaction
@@ -260,18 +302,23 @@ This list collects **209 hand-vetted repositories**: individual skills, curated 
 ### Self-Improving Skills
 - **[uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch)** — Have the agent iterate autonomously toward a measurable goal
 - **[BayramAnnakov/claude-reflect](https://github.com/BayramAnnakov/claude-reflect)** — Capture corrections and turn them into reusable skills automatically
+- **[Kulaxyz/self-learning-skills](https://github.com/Kulaxyz/self-learning-skills)** — Skill for turning lessons from coding sessions into reusable instructions.
 - **[blader/napkin](https://github.com/blader/napkin)** — Give the agent persistent memory of its past mistakes per repo
 
 ### Domain-Specific
 - **[anysearch-ai/anysearch-skill](https://github.com/anysearch-ai/anysearch-skill)** — Add unified real-time web search to your agent
 - **[czlonkowski/n8n-skills](https://github.com/czlonkowski/n8n-skills)** — Build reliable n8n automation workflows
+- **[Hisn00w/ASu-skills](https://github.com/Hisn00w/ASu-skills)** — Skills for job applications, interviews, and software development.
 - **[muxuuu/serenity-skill](https://github.com/muxuuu/serenity-skill)** — Apply supply-chain methodology to investment research
 - **[himself65/finance-skills](https://github.com/himself65/finance-skills)** — Run market analysis and pull finance data for startups
+- **[tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills)** — Skills for equity research, market charts, and trading analysis.
 - **[romainsimon/paperasse](https://github.com/romainsimon/paperasse)** — Handle French accounting, tax, notary, and audit tasks
 - **[timescale/pg-aiguide](https://github.com/timescale/pg-aiguide)** — Follow PostgreSQL best practices in AI-assisted coding
 - **[aklofas/kicad-happy](https://github.com/aklofas/kicad-happy)** — Design electronics and analyze PCBs in KiCad
 - **[itsmostafa/aws-agent-skills](https://github.com/itsmostafa/aws-agent-skills)** — Get token-efficient AWS engineering knowledge
+- **[thedivergentai/Game-Dev-Agentic-Skills](https://github.com/thedivergentai/Game-Dev-Agentic-Skills)** — Skills for Godot and Bevy game development workflows.
 - **[zhinkgit/embeddedskills](https://github.com/zhinkgit/embeddedskills)** — Automate embedded compile-flash-debug toolchains
+- **[bitwize-music-studio/claude-ai-music-skills](https://github.com/bitwize-music-studio/claude-ai-music-skills)** — Skills and templates for AI-assisted music production.
 - **[evolsb/claude-legal-skill](https://github.com/evolsb/claude-legal-skill)** — Review contracts with CUAD risk detection and benchmarks
 - **[liyupi/yupi-skill](https://github.com/liyupi/yupi-skill)** — Get programming, career, and resume help in creator Yupi's style
 - **[arpitg1304/robotics-agent-skills](https://github.com/arpitg1304/robotics-agent-skills)** — Guide ROS development, robotics design patterns, and testing.
