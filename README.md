@@ -135,6 +135,7 @@ This list collects **256 hand-vetted repositories**: individual skills, curated 
 - **[Sushegaad/Claude-Skills-Governance-Risk-and-Compliance](https://github.com/Sushegaad/Claude-Skills-Governance-Risk-and-Compliance)** — Governance, risk, and compliance skills for ISO, SOC, GDPR, HIPAA, and related operational requirements.
 - **[rsoffer/linus-level-skill](https://github.com/rsoffer/linus-level-skill)** — A SKILL.md agent skill that gives Codex, Claude, and other coding agents a 1.0-10.0 Linus Level dial for autonomy, strictness, security, questions, and engineering rigor.
 - **[theinfosecguy/razin](https://github.com/theinfosecguy/razin)** — Static analysis scanner for SKILL.md LLM agent skills with deterministic security findings.
+- **[yuanqingsong2024/skill-md-quick-security-check](https://github.com/yuanqingsong2024/skill-md-quick-security-check)** — Five-pattern security check for third-party SKILL.md files before install: piped remote scripts, destructive commands, wildcard tool approvals, hidden Unicode, and credential exfiltration.
 
 ### Software Engineering
 - **[mattpocock/skills](https://github.com/mattpocock/skills)** — Drop in battle-tested skills that stop agents repeating common engineering mistakes
