@@ -323,6 +323,7 @@ This list collects **256 hand-vetted repositories**: individual skills, curated 
 - **[liyupi/yupi-skill](https://github.com/liyupi/yupi-skill)** — Get programming, career, and resume help in creator Yupi's style
 - **[arpitg1304/robotics-agent-skills](https://github.com/arpitg1304/robotics-agent-skills)** — Guide ROS development, robotics design patterns, and testing.
 - **[zxkane/aws-skills](https://github.com/zxkane/aws-skills)** — Develop on AWS (IaC, serverless, cost) with skills and plugins
+- **[skillsforbots/grok-bot-skills](https://github.com/skillsforbots/grok-bot-skills)** — Keep agents from sending messages or spending money without approval, with a handoff note between bots
 
 ### Learning & Guides
 - **[luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)** — Visual, example-driven Claude Code guide with practical agent templates.
